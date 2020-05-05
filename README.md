@@ -1,4 +1,4 @@
-List of curated resources:
+<h2> List of curated resources:</h2> 
 <ol>
     <li/> <a href="https://darylcs37.github.io/resources/listing_data_text.htm"> Dataset - Text </a>
     <li/> <a href="https://darylcs37.github.io/resources/listing_data_image.htm"> Dataset - Image </a>
