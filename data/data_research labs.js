@@ -90,7 +90,7 @@ $(document).ready(function() {	$('#dynamic').html( '<table cellpadding="0" style
 			{ "sTitle": "Category", "sWidth": "5%" },
 			{ "sTitle": "Type", "sWidth": "5%" },
 			{ "sTitle": "URL", "sWidth": "10%" },
-			{ "sTitle": "Description", "sWidth": "10%" },
+			{ "sTitle": "Description", "sWidth": "50%" },
 			{ "sTitle": "Twitter", "sWidth": "10%" },
 			{ "sTitle": "Facebook", "sWidth": "10%" },
 		]
