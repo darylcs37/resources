@@ -89,10 +89,10 @@ $(document).ready(function() {	$('#dynamic').html( '<table cellpadding="0" style
 			{ "sTitle": "Name", "sWidth": "10%" },
 			{ "sTitle": "Category", "sWidth": "5%" },
 			{ "sTitle": "Type", "sWidth": "5%" },
-			{ "sTitle": "URL", "sWidth": "10%" },
-			{ "sTitle": "Description", "sWidth": "50%" },
-			{ "sTitle": "Twitter", "sWidth": "10%" },
-			{ "sTitle": "Facebook", "sWidth": "10%" },
+			{ "sTitle": "URL", "sWidth": "5%" },
+			{ "sTitle": "Description", "sWidth": "30%" },
+			{ "sTitle": "Twitter", "sWidth": "5%" },
+			{ "sTitle": "Facebook", "sWidth": "5%" },
 		]
 		} );
 	} );
