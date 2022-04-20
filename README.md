@@ -8,4 +8,5 @@
     <li/> <a href="https://darylcs37.github.io/resources/listing_data_domain.htm"> Dataset - Domains (include ontologies) </a>
     <li/> <a href="#"> Dataset - Events [to be added] </a>
     <li/> <a href="https://darylcs37.github.io/resources/listing_research labs.htm"> Research Labs </a>
+    <li/> <a href="#"> Courses [to be added] </a>
 </ol>
