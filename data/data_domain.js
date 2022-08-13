@@ -74,7 +74,18 @@
 		['Turkish Way of Drone Warfare','Turkey s burgeoning drone-warfare edge has amplified the Turkish elite s strategic thinking. Winning contemporary wars is about winning the battle networks, and this is the underlying reason behind Turkey s success. Drone warfare has paid off in Libya, Syria, and Karabakh, among others. (atlanticcouncil)','RUS-UKR','Drone','https://www.dropbox.com/s/q3tdv59ox8ro5cw/Techno-Geopolitics_and_the_Turkish_Way_of_Drone_Warfare%20%28atlanticcouncil%29.pdf?dl=0'],
 		['Ukraine Control Map','Crowdsouced (Project Owl OSINT)','RUS-UKR','Map','https://www.google.com/maps/d/viewer?mid=180u1IkUjtjpdJWnIC0AxTKSiqK4G6Pez&ll=49.3938255078818%2C32.84786878873499&z=6'],
 		['EUR ESCAPE','(ESRI)','RUS-UKR','Map','https://www.arcgis.com/apps/webappviewer/index.html?id=c0477215792342fd8b53640341d59bdb&extent=-893540.2338%2C4092066.5241%2C8220199.5227%2C8587786.7797%2C102100'],
+
 		['Digital Watch observatory','Digital technology plays an important, if not decisive, role in the Ukraine-Russia conflict. Cyberattacks increase as the conflict escalates. Decisions by Big Tech and social media platforms about the services they provide or block directly impact the situation on the ground. Emerging technologies, such as cryptocurrencies, find new applications. Sanctions will impact the development of technology and e-commerce. (dig.watch)','RUS-UKR','Cyber-Info','https://dig.watch/ukraine-crisis-a-timeline-of-developments'],
+		['Russia-Ukraine ConflictMisinfo Dashboard','The Russia-Ukraine ConflictMisinfo Dashboard is an information management tool for monitoring online misinformation and disinformation about the 2022 Russia’s invasion of Ukraine. It tracks and visualizes debunked claims from 100s of trusted fact-checkers from around the world.','RUS-UKR','OSINT','https://datastudio.google.com/u/0/reporting/829691d8-d2f9-49ab-ac8b-4343ca9c960b/page/Kn2IB'],
+		['Russia Cyber Threat Overview and Advisories','(cisa.gov)','RUS-UKR','Cyber-Info','https://www.cisa.gov/uscert/russia'],
+		['Russian State-Sponsored and Criminal Cyber Threats to Critical Infrastructure','(cisa.gov)','RUS-UKR','Cyber-Info','https://www.cisa.gov/uscert/ncas/alerts/aa22-110a'],
+		['Malware Posing as Russia DDoS Tool Bites Pro-Ukraine Hackers','(threatpost)','RUS-UKR','Cyber-Info','https://threatpost.com/malware-posing-russia-ddos-tool-bites-pro-ukraine-hackers/178864/'],
+		['Top 5 Russian Cyber Threat Actors to Watch','1. UAC-0056 threat group (TA471, SaintBear, and Lorec53), 2. Sandworm Team, 3. Gamaredon Group, 4. APT29 (Dukes or Cozy Bear), 5. APT28 (Fancy Bear) (rapid7)','RUS-UKR','Cyber-Info','https://www.rapid7.com/blog/post/2022/03/03/the-top-5-russian-cyber-threat-actors-to-watch/'],
+		['Russian cyber attack campaigns and actors','(ironnet)','RUS-UKR','Cyber-Info','https://www.ironnet.com/blog/russian-cyber-attack-campaigns-and-actors'],
+		['The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine','Mandiant identified information operations aligned with Russian political interests that occurred concurrently with disruptive and destructive, likely Russian sponsored cyber threat activity in the weeks immediately preceding and following the start of the invasion, including incidents involving the deployment of wiper malware disguised as ransomware (Table 1). Cyber-enabled information operations by nature require access to diverse skillsets to support different operational components, which varies based on the complexity of the operation. While we cannot link these operations to the concurrent disruptive and destructive activity, this limited pattern of overlap may suggest that some of the actors behind information operations observed in this conflict are linked to groups with extensive capabilities.','RUS-UKR','XXXX','https://www.mandiant.com/resources/information-operations-surrounding-ukraine'],
+		['XXXXX','Information is key to human survival. Therefore, information warfare is an inherent part of human conflict. Nation-states run thousands of computer network operations every day. Some are designed to support democracy and human rights. Others are meant to target and terrify innocent civilians. Governments defend enormous gray zones where Internet-enabled crime, espionage, and war are hard to differentiate, and law enforcement, intelligence, and military agencies do not know who is responsible for what. NATO has recognized cyberspace as a domain of warfare similar to land, air, and sea.  This talk examines the latest research and prevailing norms in law, operations, strategy, and technology. It includes a deep dive into the cyber dimension of the war between Russia and Ukraine, covering military strikes, information operations, and attacks on civilian critical infrastructure.','RUS-UKR','Cyber-Info','XXXXX'],
+		['Cyber Attacks in Times of Conflict Platform #Ukraine','How have cyberattacks and operations evolved over time since the military invasion of Ukraine? (cyberpeaceinstitute)','RUS-UKR','Cyber-Info','https://cyberconflicts.cyberpeaceinstitute.org/threats/attack-details'],
+
 		['Hypersonic weapons and arms control','(russiancouncil.ru)','RUS-UKR','Hypersonic','https://russiancouncil.ru/en/analytics-and-comments/analytics/hypersonic-weapons-and-arms-control/'],
 		['Arms Transfers to Ukraine','Ukraine arms transfers As tensions mounted in late 2021 and into 2022 concerning a Russian invasion of Ukraine, many countries announced arms transfers to Ukraine. As the invasion began in late February, this resource page was launched to track developments related to such transfers, which thus far includes pledges and/or deliveries from more than 25 countries plus the European Union. (forumarmstrade)','RUS-UKR','Arms Transfer','https://www.forumarmstrade.org/ukrainearms.html'],
 		['Bayraktar TB2 Armed Drone','In the Ukraine conflict the TB2 has scored some impressive kills against Russian tanks, armored vehicles, artillery pieces, and short-range air defense systems. The Turks have also employed the TB2 in Syria and Iraq since 2014.','RUS-UKR','Drone','https://www.national-security.info/ukraine/weapons/bayraktar-tb2-drone.html'],
@@ -88,10 +99,16 @@
 		['Russian Military Strategy Core Tenets and Operational Concepts','This paper explores the core tenets of Russian military strategy and associated operational concepts, situating its role within the Russian system of knowledge on military security. Russian military leaders describe the prevailing strategy as ‘active defense,’ a strategic concept integrating preemptive measures to anticipate and prevent conflict, wartime concepts of operations that seek to deny an opponent decisive victory in the initial period of war, degrading  and disorganizing their effort, while setting the conditions to attain war termination on acceptable terms. (cna)','RUS-UKR','CONOPS','https://www.dropbox.com/s/75np1gm8a8zvhyw/RUS-UKR_CONOPS_russian-military-strategy-core-tenets-and-operational-concepts.pdf?dl=0'],
 		['Ukraine War Gives Taiwan Ideas for How to Defend Itself Against China','Taiwan has been taking clues from Ukraine on how smaller armies can inflict heavy losses on larger rivals. WSJ unpacks Taipei s so-called porcupine strategy to prepare for a potential war with China.','RUS-UKR','CONOPS','https://www.youtube.com/watch?v=QYnq8A5gdAw'],
 		['Chinese Military Lessons from Ukraine','','RUS-UKR','CONOPS','Chinese Military Lessons from Ukraine'],
+		['The Changing Character of Combined Arms','The dialogue to date lacks is a broader conceptualization of how the character of combined arms is changing in what is best described as the new missile age. The ability of tactical units — from squads to individual fighter aircraft — to conduct precision strikes across the depth of the battlefield, all captured and circulated on social media, changes how we think about tempo, decision-making, and combined arms. (warontherocks)','RUS-UKR','CONOPS','https://warontherocks.com/2022/05/the-changing-character-of-combined-arms/'],
 
-		['News - WashingtonPost','(washingtonpost)','RUS-UKR','News','https://www.washingtonpost.com/world/ukraine-russia/'],
+
+
 		['News - Grid','(grid.news)','RUS-UKR','News','https://www.grid.news/ukraine-russia/'],
+		['News - Politico','(politico)','RUS-UKR','News','https://www.politico.eu/tag/war-in-ukraine/'],
 		['News - RadioFreeEurope/RadioLiberty','RFE/RL’s mission is to promote democratic values and institutions and advance human rights by reporting the news in countries where a free press is banned by the government or not fully established. In 23 countries, RFE/RL journalists ​provide what many people cannot get locally: uncensored news, responsible discussion, and open debate. RFE/RL strives to meet the highest standards of objective journalism and report the facts, undaunted by pressure or attempted influence​. (rferl)','RUS-UKR','News','https://www.rferl.org/russia-invades-ukraine'],
+		['News - WashingtonPost','(washingtonpost)','RUS-UKR','News','https://www.washingtonpost.com/world/ukraine-russia/'],
+		['News - Alert5','(alert5)','RUS-UKR','News - Aviation','https://alert5.com/'],
+		['News - The Aviationist','(theaviationist)','RUS-UKR','News - Aviation','https://theaviationist.com/'],
 
 		['News - Robotics / Unmanned','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Robot%20-%20unmanned/view/html'],
 		['News - EW / Radar / ELINT','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/EW%20Radar%20ELINT/view/html'],
@@ -117,8 +134,8 @@
 		['Hawkeye 360 Signal Detection Reveals Gps Interference In Ukraine','hawkeye-360','RUS-UKR','EW','https://www.he360.com/hawkeye-360-signal-detection-reveals-gps-interference-in-ukraine/'],
 		['Why isn’t Russia doing more to jam GPS in Ukraine?','(c4isrnet)','RUS-UKR','EW','https://www.c4isrnet.com/opinion/2022/07/22/why-isnt-russia-jamming-gps-harder-in-ukraine/'],
 		['Rah, Rah, Rash Putin?','(armadainternational)','RUS-UKR','EW','https://www.armadainternational.com/2022/03/russia-ukraine-invasion-electronic-warfare/'],
-
-		['News','(theaviationist)','RUS-UKR','Aviation','https://theaviationist.com/'],
+		['Russia’s Stalled Electronic Warfare Betrays Bad Planning, Poor Training','Western analysts had largely assumed Russia would use electronic warfare to devastating effect in a full invasion of Ukraine. the story of EW in the Ukraine conflict highlights the complexity of cross-domain warfare, in which EW is essential. While we may often conceive of tanks, keyboards, communications and planes as different capabilities, they are increasingly interlinked — if not in an automated “system-of-systems,” then in a dynamic and occasionally frenetic way, requiring creative and agile responses. Russia’s failure to plan for this reality was a plan to fail. (cigionline)','RUS-UKR','EW','https://www.cigionline.org/articles/russias-stalled-electronic-warfare-betrays-bad-planning-poor-training/'],
+		['3 reasons Moscow isnt taking down Ukraine cell networks','Russia has three good reasons to refrain from disabling phone and data networks: 1) Russian intelligence services can eavesdrop on phone calls and emails and also gather geolocation and other metadata. 2) The Russian army is using Ukrainian commercial networks to communicate. 3) Russian forces don’t want to destroy infrastructure that they will need if they succeed in conquering Ukraine. (politico)','RUS-UKR','Infra-Telco','https://www.politico.com/news/2022/03/07/ukraine-phones-internet-still-work-00014487'],
 
 		['Ukraine Refugee Situation','(unhcr)','RUS-UKR','HADR','https://data.unhcr.org/en/situations/ukraine'],
 
@@ -127,10 +144,20 @@
 	/*
 
 
+		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 
 
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+
 
 	 		['XXXXX','Aggregated News Feeds (inoreader)','RUS-UKR','News','XXXXX'],
 	  ['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
