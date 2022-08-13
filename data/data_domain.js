@@ -64,8 +64,29 @@
 		['ICT Ontology (DBPedia)','DBPedia (format in TTL, JSON, XML)','Ontology','ICT','https://www.dropbox.com/s/x1ck9qxey77y8y9/IT.zip?dl=0'],
 		['Space Ontology (DBPedia)','DBPedia (format in TTL, JSON, XML)','Ontology','Space','https://www.dropbox.com/s/hi4zca87msxmyb1/Space.zip?dl=0'],
 
-		// ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
-		// ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
+		// RUS-UK
+		['Weapons of the war in Ukraine','This report is the result of a three-year study into the supply sources of weapons, ammunition, vehicles, armour, and artillery used in the conflict. [https://www.conflictarm.com/reports/weapons-of-the-war-in-ukraine/]','RUS-UKR','Supply Chain','https://www.dropbox.com/s/twqjw7jj09m0d02/RUS-UKR_SupplyChain_Weapons-of-the-war-in-Ukraine%20%28itrace%29.pdf?dl=0'],
+		['Silicon Lifeline Western Electronics at the Heart of Russia s War Machine','Russia s war against Ukraine has relied on Western electronics. Russia’s invasion of Ukraine on 24 February 2022 has not gone to plan. Launched in the expectation of a surgical occupation of Ukrainian cities, it has become a grinding attritional struggle that is rapidly degrading the Russian military. This report, which contains an examination of the components and functioning of 27 of Russia’s most modern military systems – including cruise missiles, communications systems and electronic warfare complexes – concludes that the degradation in Russian military capability could be made permanent if appropriate policies are implemented. [https://rusi.org/explore-our-research/publications/special-resources/silicon-lifeline-western-electronics-heart-russias-war-machine/]','RUS-UKR','Supply Chain','https://www.dropbox.com/s/co3r5b5u92kin4y/RUS-UKR_SupplyChain_Silicon%20Lifeline%20Western%20Electronics%20at%20the%20Heart%20of%20Russia%E2%80%99s%20War%20Machine%20%28rusi%29.pdf?dl=0'],
+
+
+		['Ukraine War Gives Taiwan Ideas for How to Defend Itself Against China','Taiwan has been taking clues from Ukraine on how smaller armies can inflict heavy losses on larger rivals. WSJ unpacks Taipei s so-called porcupine strategy to prepare for a potential war with China.','RUS-UKR','Video','https://www.youtube.com/watch?v=QYnq8A5gdAw'],
+		['Eyes on Russia: The Russia-Ukraine Monitor Map','The Russia-Ukraine Monitor Map is a crowdsourced effort by the Centre for Information Resilience as part of the ‘Eyes on Russia’ project. We work with Bellingcat, GeoConfirmed, Conflict Intelligence Team, Advance Democracy and the open source community to map, document, archive and investigate what is happening in Ukraine.(Cen4infoRes)','RUS-UKR','Map','https://maphub.net/Cen4infoRes/russian-ukraine-monitor'],
+		['Russia-Ukraine Conflict Map','[national-security.info]','RUS-UKR','Map','https://www.national-security.info/ukraine/maps.html'],
+		['Turkish Way of Drone Warfare','Turkey s burgeoning drone-warfare edge has amplified the Turkish elite s strategic thinking. Winning contemporary wars is about winning the battle networks, and this is the underlying reason behind Turkey s success. Drone warfare has paid off in Libya, Syria, and Karabakh, among others. (atlanticcouncil)','RUS-UKR','Drone','https://www.dropbox.com/s/q3tdv59ox8ro5cw/Techno-Geopolitics_and_the_Turkish_Way_of_Drone_Warfare%20%28atlanticcouncil%29.pdf?dl=0'],
+		['Ukraine Control Map','Crowdsouced (Project Owl OSINT)','RUS-UKR','Map','https://www.google.com/maps/d/viewer?mid=180u1IkUjtjpdJWnIC0AxTKSiqK4G6Pez&ll=49.3938255078818%2C32.84786878873499&z=6'],
+		['EUR ESCAPE','(ESRI)','RUS-UKR','Map','https://www.arcgis.com/apps/webappviewer/index.html?id=c0477215792342fd8b53640341d59bdb&extent=-893540.2338%2C4092066.5241%2C8220199.5227%2C8587786.7797%2C102100'],
+		['Digital Watch observatory','Digital technology plays an important, if not decisive, role in the Ukraine-Russia conflict. Cyberattacks increase as the conflict escalates. Decisions by Big Tech and social media platforms about the services they provide or block directly impact the situation on the ground. Emerging technologies, such as cryptocurrencies, find new applications. Sanctions will impact the development of technology and e-commerce. (dig.watch)','RUS-UKR','Cyber-Info','https://dig.watch/ukraine-crisis-a-timeline-of-developments'],
+		['Hypersonic weapons and arms control','(russiancouncil.ru)','RUS-UKR','Hypersonic','https://russiancouncil.ru/en/analytics-and-comments/analytics/hypersonic-weapons-and-arms-control/'],
+		['Arms Transfers to Ukraine','Ukraine arms transfers As tensions mounted in late 2021 and into 2022 concerning a Russian invasion of Ukraine, many countries announced arms transfers to Ukraine. As the invasion began in late February, this resource page was launched to track developments related to such transfers, which thus far includes pledges and/or deliveries from more than 25 countries plus the European Union. (forumarmstrade)','RUS-UKR','Arms Transfer','https://www.forumarmstrade.org/ukrainearms.html'],
+		['Bayraktar TB2 Armed Drone','In the Ukraine conflict the TB2 has scored some impressive kills against Russian tanks, armored vehicles, artillery pieces, and short-range air defense systems. The Turks have also employed the TB2 in Syria and Iraq since 2014.','RUS-UKR','Drone','https://www.national-security.info/ukraine/weapons/bayraktar-tb2-drone.html'],
+		['Ukrainian tech sector in wartime','(techukraine.org)','RUS-UKR','General','https://techukraine.org/2022/07/02/ukrainian-tech-sector-in-wartime-june-edition/'],
+		['Disrupters and Defenders: What the Ukraine War Has Taught Us About the Power of Global Tech Companies','(institute.global)','RUS-UKR','General','https://institute.global/policy/disrupters-and-defenders-what-ukraine-war-has-taught-us-about-power-global-tech-companies'],
+		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+
+		// ['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 		// ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
 		// ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
 	];
@@ -77,6 +98,7 @@ $(document).ready(function() {	$('#dynamic').html( '<table cellpadding="0" style
 		"paging"   : false,
 		"order": [[ 2, 'asc' ], [ 3, 'asc' ]],
 		"aaData"   : aDataSet,
+		"oSearch": {"sSearch": "RUS-UKR"},
 		"aoColumns": [
 			{ "sTitle": "Name", "sWidth": "30%" },
 			{ "sTitle": "Description", "sWidth": "30%" },
@@ -115,5 +137,5 @@ $(document).ready(function() {	$('#dynamic').html( '<table cellpadding="0" style
         }
 		  },
 		]
-		} );
 	} );
+} );
