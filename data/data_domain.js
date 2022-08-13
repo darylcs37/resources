@@ -81,14 +81,29 @@
 		['Bayraktar TB2 Armed Drone','In the Ukraine conflict the TB2 has scored some impressive kills against Russian tanks, armored vehicles, artillery pieces, and short-range air defense systems. The Turks have also employed the TB2 in Syria and Iraq since 2014.','RUS-UKR','Drone','https://www.national-security.info/ukraine/weapons/bayraktar-tb2-drone.html'],
 		['Ukrainian tech sector in wartime','(techukraine.org)','RUS-UKR','General','https://techukraine.org/2022/07/02/ukrainian-tech-sector-in-wartime-june-edition/'],
 		['Disrupters and Defenders: What the Ukraine War Has Taught Us About the Power of Global Tech Companies','(institute.global)','RUS-UKR','General','https://institute.global/policy/disrupters-and-defenders-what-ukraine-war-has-taught-us-about-power-global-tech-companies'],
-		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
-		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+		['Russia’s “New” Military Theory Updating Classical and Asymmetric Techniques','A new understanding of warfare appears under development in Russia. This article will focus first on some brief examples of Russian classical methods, especially different ways they can be updated such as operational art in space or integrated. That discussion is followed with a consideration of several elements that compose Russian asymmetrical thinking. The article concludes with an examination of a potential scenario involving the integration of classical and asymmetric methods that might be explored in Russian gaming exercises. (mitre)','RUS-UKR','CONOPS','https://www.dropbox.com/s/r3eopgpx7lvbzpj/RUS-UKR_CONOPS_Russia%E2%80%99s%20%E2%80%9CNew%E2%80%9D%20Military%20Theory%20Updating%20Classical%20and%20Asymmetric%20Techniques_202005%20%28mitre%29.docx?dl=0'],
+		['Russian Planning Visions for Large-Scale Warfare: “Planetary, Theater, and Territorial” Considerations','(mitre)','RUS-UKR','CONOPS','https://www.dropbox.com/s/m0dp0btasj01yy9/RUS-UKR_CONOPS_Russian%20Planning%20Visions%20%28mitre%29.pdf?dl=0'],
+		['Russian Military Strategy Core Tenets and Operational Concepts','This paper explores the core tenets of Russian military strategy and associated operational concepts, situating its role within the Russian system of knowledge on military security. Russian military leaders describe the prevailing strategy as ‘active defense,’ a strategic concept integrating preemptive measures to anticipate and prevent conflict, wartime concepts of operations that seek to deny an opponent decisive victory in the initial period of war, degrading  and disorganizing their effort, while setting the conditions to attain war termination on acceptable terms. (cna)','RUS-UKR','CONOPS','https://www.dropbox.com/s/75np1gm8a8zvhyw/RUS-UKR_CONOPS_russian-military-strategy-core-tenets-and-operational-concepts.pdf?dl=0'],
+		['WashingtonPost News Coverage','(washingtonpost)','RUS-UKR','News','https://www.washingtonpost.com/world/ukraine-russia/'],
+		['News - Robotics / Unmanned','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Robot%20-%20unmanned/view/html'],
+		['News - EW / Radar / ELINT','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/EW%20Radar%20ELINT/view/html'],
+		['News - Training & Simulation','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Training%20%26%20Simulation/view/html'],
+		['News - Space','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Space/view/html'],
+		['News - Infrastructure','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Infrastructure/view/html'],
+		['Grid News Coverage','(grid.news)','RUS-UKR','News','https://www.grid.news/ukraine-russia/'],
+		['Think Tank reports on the invasion of Ukraine','(consilium.europa.eu)','RUS-UKR','Think-Tanks','https://www.consilium.europa.eu/en/documents-publications/library/library-blog/posts/think-tank-reports-on-the-invasion-of-ukraine/'],
+		['Institute for the Study of War','(understandingwar)','RUS-UKR','Think-Tanks','https://www.understandingwar.org/'],
+		['Global Impact of War In Ukraine','(futuresplatform)','RUS-UKR','General','https://www.futuresplatform.com/foresight-radar/ukraine-war-global-impacts'],
+	/*
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 
-		// ['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
-		// ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
-		// ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
+	 		['XXXXX','Aggregated News Feeds (inoreader)','RUS-UKR','News','XXXXX'],
+	  ['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+		 ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
+		 ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
+
+*/
 	];
 
 
