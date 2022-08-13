@@ -82,8 +82,8 @@
 		['Malware Posing as Russia DDoS Tool Bites Pro-Ukraine Hackers','(threatpost)','RUS-UKR','Cyber-Info','https://threatpost.com/malware-posing-russia-ddos-tool-bites-pro-ukraine-hackers/178864/'],
 		['Top 5 Russian Cyber Threat Actors to Watch','1. UAC-0056 threat group (TA471, SaintBear, and Lorec53), 2. Sandworm Team, 3. Gamaredon Group, 4. APT29 (Dukes or Cozy Bear), 5. APT28 (Fancy Bear) (rapid7)','RUS-UKR','Cyber-Info','https://www.rapid7.com/blog/post/2022/03/03/the-top-5-russian-cyber-threat-actors-to-watch/'],
 		['Russian cyber attack campaigns and actors','(ironnet)','RUS-UKR','Cyber-Info','https://www.ironnet.com/blog/russian-cyber-attack-campaigns-and-actors'],
-		['The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine','Mandiant identified information operations aligned with Russian political interests that occurred concurrently with disruptive and destructive, likely Russian sponsored cyber threat activity in the weeks immediately preceding and following the start of the invasion, including incidents involving the deployment of wiper malware disguised as ransomware (Table 1). Cyber-enabled information operations by nature require access to diverse skillsets to support different operational components, which varies based on the complexity of the operation. While we cannot link these operations to the concurrent disruptive and destructive activity, this limited pattern of overlap may suggest that some of the actors behind information operations observed in this conflict are linked to groups with extensive capabilities.','RUS-UKR','XXXX','https://www.mandiant.com/resources/information-operations-surrounding-ukraine'],
-		['XXXXX','Information is key to human survival. Therefore, information warfare is an inherent part of human conflict. Nation-states run thousands of computer network operations every day. Some are designed to support democracy and human rights. Others are meant to target and terrify innocent civilians. Governments defend enormous gray zones where Internet-enabled crime, espionage, and war are hard to differentiate, and law enforcement, intelligence, and military agencies do not know who is responsible for what. NATO has recognized cyberspace as a domain of warfare similar to land, air, and sea.  This talk examines the latest research and prevailing norms in law, operations, strategy, and technology. It includes a deep dive into the cyber dimension of the war between Russia and Ukraine, covering military strikes, information operations, and attacks on civilian critical infrastructure.','RUS-UKR','Cyber-Info','XXXXX'],
+		['The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine','Mandiant identified information operations aligned with Russian political interests that occurred concurrently with disruptive and destructive, likely Russian sponsored cyber threat activity in the weeks immediately preceding and following the start of the invasion, including incidents involving the deployment of wiper malware disguised as ransomware (Table 1). Cyber-enabled information operations by nature require access to diverse skillsets to support different operational components, which varies based on the complexity of the operation. While we cannot link these operations to the concurrent disruptive and destructive activity, this limited pattern of overlap may suggest that some of the actors behind information operations observed in this conflict are linked to groups with extensive capabilities.','RUS-UKR','Cyber-Info','https://www.mandiant.com/resources/information-operations-surrounding-ukraine'],
+		['Virtual-Battlefield in 2022 - War & Its Policy Implications','Information is key to human survival. Therefore, information warfare is an inherent part of human conflict. Nation-states run thousands of computer network operations every day. Some are designed to support democracy and human rights. Others are meant to target and terrify innocent civilians. Governments defend enormous gray zones where Internet-enabled crime, espionage, and war are hard to differentiate, and law enforcement, intelligence, and military agencies do not know who is responsible for what. NATO has recognized cyberspace as a domain of warfare similar to land, air, and sea.  This talk examines the latest research and prevailing norms in law, operations, strategy, and technology. It includes a deep dive into the cyber dimension of the war between Russia and Ukraine, covering military strikes, information operations, and attacks on civilian critical infrastructure. (blackhat)','RUS-UKR','Cyber-Info','https://www.dropbox.com/s/6aao2lkudd47l0u/RUS-UKR_Virtual-Battlefield%20in%202022%20-%20War%20%26%20Its%20Policy%20Implications%20%28blackhat%29.pdf?dl=0'],
 		['Cyber Attacks in Times of Conflict Platform #Ukraine','How have cyberattacks and operations evolved over time since the military invasion of Ukraine? (cyberpeaceinstitute)','RUS-UKR','Cyber-Info','https://cyberconflicts.cyberpeaceinstitute.org/threats/attack-details'],
 
 		['Hypersonic weapons and arms control','(russiancouncil.ru)','RUS-UKR','Hypersonic','https://russiancouncil.ru/en/analytics-and-comments/analytics/hypersonic-weapons-and-arms-control/'],
@@ -142,15 +142,12 @@
 		['Space Threat Assessment 2022','(csis)','RUS-UKR','Space','https://www.dropbox.com/s/jih3ouj1og2phlx/Space_Threat%20Assessment%202022%20%28csis%29.pdf?dl=0'],
 
 	/*
-
-
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 
-
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
@@ -158,11 +155,10 @@
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 
-
-	 		['XXXXX','Aggregated News Feeds (inoreader)','RUS-UKR','News','XXXXX'],
+ 		['XXXXX','Aggregated News Feeds (inoreader)','RUS-UKR','News','XXXXX'],
 	  ['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
-		 ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
-		 ['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
+	 	['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
+	 	['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
 
 */
 	];
