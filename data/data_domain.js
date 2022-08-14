@@ -47,6 +47,20 @@
 		['Landscape of Hybrid Threats - A Conceptual Mode 2021 (Hybrid CoE)','','Defence','Hybrid Warfare','https://www.dropbox.com/s/v5xe09pnqqrxkx8/Hybrid%20Warfare_Landscape%20of%20Hybrid%20Threats%20-%20A%20Conceptual%20Mode_2021%20%28Hybrid%20CoE%29l.pdf?dl=0'],
 		['Quantifying gray zone conflict codebook (2017 - start)','','Defence','Hybrid Warfare','https://www.dropbox.com/s/y3e2novjp7bp4zj/Quantifying_gray_zone_conflict_codebook_2017%20%28start%29.pdf?dl=0'],
 
+		// Hypersonic
+		['Hypersonic weapons and arms control','(russiancouncil.ru)','Defence','Hypersonic','https://russiancouncil.ru/en/analytics-and-comments/analytics/hypersonic-weapons-and-arms-control/'],
+		['Chinese Ballistic Missile Industry (May 202105)','(airuniversity.af.edu)','Defence','Hypersonic','https://www.dropbox.com/s/4elpvcix9idfod3/CN_Ballistic%20Missile%20Industry_202105%20%28airuniversity.af.edu%29.pdf?dl=0'],
+		['Hypersonic Missile Nonproliferation - Hindering the Spread of a New Class of Weapons','(rand)','Defence','Hypersonic','https://www.dropbox.com/s/q1wrrjp817ijxjj/Hypersonic%20Missile%20Nonproliferation%20%28rand%29.pdf?dl=0'],
+		['Hypersonic Weapons - Background and Issues (Oct 2021)','(US Congress)','Defence','Hypersonic','https://www.dropbox.com/s/xb18o90fpuoq0y3/Hypersonic_Weapons%20-%20Background%20and%20Issues_202110_%28US%20Congress%29.pdf?dl=0'],
+		['Hypersonic Weapons Primer (Jul 2019)','(afpc.org)','Defence','Hypersonic','https://www.dropbox.com/s/zhsvg5i8778pvvc/Hypersonic_Weapons_Primer_201907_%28afpc.org%29.pdf?dl=0'],
+
+		// JADC2
+		['What Is JADC2, and How Does It Relate to Training? An Air Force Perspective on Joint All Domain Command and Control','(rand)','Defence','JADC2','https://www.dropbox.com/s/r08n1j0ceitb7g2/US_JADC2_An%20Air%20Force%20Perspective%20%28rand%29.pdf?dl=0'],
+		['One-Size-Fits-None: Overhauling JADC2 to Prioritize the Warfighter and Exploit Adversaries’ Weaknesses','(hudson institute)','Defence','JADC2','https://www.dropbox.com/s/bozxl893zq7o229/US_JADC2_Clark%20Patt_One%20Size%20Fits%20None.pdf?dl=0'],
+		['JADC2 - A Summary','(dod)','Defence','JADC2','https://www.dropbox.com/s/4zwn1zk08thf7ri/US_JADC2_summary.PDF?dl=0'],
+		['Army multi-domain operations 2019','(US army)','Defence','JADC2','https://www.dropbox.com/s/qlxskw5can1pbyg/US_JADC2_Army%20multi%20domain%20operations%202019.pdf?dl=0'],
+		['News - JADC2','Aggregated News Feeds (inoreader)','Defence','JADC2','https://www.inoreader.com/stream/user/1004633940/tag/JADC2/view/html'],		
+
 		// Space
 		['China Space and Counterspace Activities','','Space','Policy','https://www.dropbox.com/s/h9t5deyl4m3dp1g/CN_China_Space_and_Counterspace_Activities.pdf?dl=0'],
 		['SG OSTIn','','Space','Policy','https://www.dropbox.com/s/3qno7eltgbarpni/SG_OSTIn.pdf?dl=0'],
@@ -63,6 +77,8 @@
 		['Hardware Ontology (DBPedia)','DBPedia (format in TTL, JSON, XML)','Ontology','Hardware','https://www.dropbox.com/s/ozg5m8d6oo0nhng/Hardware.zip?dl=0'],
 		['ICT Ontology (DBPedia)','DBPedia (format in TTL, JSON, XML)','Ontology','ICT','https://www.dropbox.com/s/x1ck9qxey77y8y9/IT.zip?dl=0'],
 		['Space Ontology (DBPedia)','DBPedia (format in TTL, JSON, XML)','Ontology','Space','https://www.dropbox.com/s/hi4zca87msxmyb1/Space.zip?dl=0'],
+		['Basic Formal Ontology (BFO)','List of ontologies and institutions/groups using BFO.','Ontology','General','https://basic-formal-ontology.org/users.html'],
+		['Common Core Ontologies','The Common Core Ontologies (CCO) comprise twelve ontologies that are designed to represent and integrate taxonomies of generic classes and relations across all domains of interest. CCO is a mid-level extension of Basic Formal Ontology (BFO), an upper-level ontology framework widely used to structure and integrate ontologies in the biomedical domain (Arp, et al., 2015). BFO aims to represent the most generic categories of entity and the most generic types of relations that hold between them, by defining a small number of classes and relations. CCO then extends from BFO in the sense that every class in CCO is asserted to be a subclass of some class in BFO, and that CCO adopts the generic relations defined in BFO (e.g., has_part) (Smith and Grenon, 2004). Accordingly, CCO classes and relations are heavily constrained by the BFO framework, from which it inherits much of its basic semantic relationships.','Ontology','General','https://github.com/CommonCoreOntology/CommonCoreOntologies'],
 
 		// RUS-UK
 		['Weapons of the war in Ukraine','This report is the result of a three-year study into the supply sources of weapons, ammunition, vehicles, armour, and artillery used in the conflict. [https://www.conflictarm.com/reports/weapons-of-the-war-in-ukraine/]','RUS-UKR','Supply Chain','https://www.dropbox.com/s/twqjw7jj09m0d02/RUS-UKR_SupplyChain_Weapons-of-the-war-in-Ukraine%20%28itrace%29.pdf?dl=0'],
@@ -86,7 +102,6 @@
 		['Virtual-Battlefield in 2022 - War & Its Policy Implications','Information is key to human survival. Therefore, information warfare is an inherent part of human conflict. Nation-states run thousands of computer network operations every day. Some are designed to support democracy and human rights. Others are meant to target and terrify innocent civilians. Governments defend enormous gray zones where Internet-enabled crime, espionage, and war are hard to differentiate, and law enforcement, intelligence, and military agencies do not know who is responsible for what. NATO has recognized cyberspace as a domain of warfare similar to land, air, and sea.  This talk examines the latest research and prevailing norms in law, operations, strategy, and technology. It includes a deep dive into the cyber dimension of the war between Russia and Ukraine, covering military strikes, information operations, and attacks on civilian critical infrastructure. (blackhat)','RUS-UKR','Cyber-Info','https://www.dropbox.com/s/6aao2lkudd47l0u/RUS-UKR_Virtual-Battlefield%20in%202022%20-%20War%20%26%20Its%20Policy%20Implications%20%28blackhat%29.pdf?dl=0'],
 		['Cyber Attacks in Times of Conflict Platform #Ukraine','How have cyberattacks and operations evolved over time since the military invasion of Ukraine? (cyberpeaceinstitute)','RUS-UKR','Cyber-Info','https://cyberconflicts.cyberpeaceinstitute.org/threats/attack-details'],
 
-		['Hypersonic weapons and arms control','(russiancouncil.ru)','RUS-UKR','Hypersonic','https://russiancouncil.ru/en/analytics-and-comments/analytics/hypersonic-weapons-and-arms-control/'],
 		['Arms Transfers to Ukraine','Ukraine arms transfers As tensions mounted in late 2021 and into 2022 concerning a Russian invasion of Ukraine, many countries announced arms transfers to Ukraine. As the invasion began in late February, this resource page was launched to track developments related to such transfers, which thus far includes pledges and/or deliveries from more than 25 countries plus the European Union. (forumarmstrade)','RUS-UKR','Arms Transfer','https://www.forumarmstrade.org/ukrainearms.html'],
 		['Bayraktar TB2 Armed Drone','In the Ukraine conflict the TB2 has scored some impressive kills against Russian tanks, armored vehicles, artillery pieces, and short-range air defense systems. The Turks have also employed the TB2 in Syria and Iraq since 2014.','RUS-UKR','Drone','https://www.national-security.info/ukraine/weapons/bayraktar-tb2-drone.html'],
 
@@ -114,7 +129,6 @@
 		['News - EW / Radar / ELINT','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/EW%20Radar%20ELINT/view/html'],
 		['News - Space','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Space/view/html'],
 		['News - Infrastructure','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Infrastructure/view/html'],
-		['News - JADC2','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/JADC2/view/html'],
 
 		['CovetShores','(hisutton)','RUS-UKR','OSINT','http://www.hisutton.com/'],
 		['BellingCat','(bellingcat)','RUS-UKR','OSINT','https://www.bellingcat.com/tag/ukraine/'],
@@ -156,7 +170,13 @@
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 
  		['XXXXX','Aggregated News Feeds (inoreader)','RUS-UKR','News','XXXXX'],
-	  ['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
+
+
+		['XXXXX','XXXXX','Defence','JADC2','XXXXX'],
+		['XXXXX','XXXXX','Defence','JADC2','XXXXX'],
+		['XXXXX','XXXXX','Defence','JADC2','XXXXX'],
+		['XXXXX','XXXXX','Defence','JADC2','XXXXX'],
+
 	 	['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
 	 	['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
 
@@ -172,11 +192,11 @@ $(document).ready(function() {	$('#dynamic').html( '<table cellpadding="0" style
 		"aaData"   : aDataSet,
 		"oSearch": {"sSearch": "RUS-UKR"},
 		"aoColumns": [
-			{ "sTitle": "Name", "sWidth": "30%" },
-			{ "sTitle": "Description", "sWidth": "30%" },
-			{ "sTitle": "Domain", "sWidth": "5%" }, // AI, Cyber, Space, Defence & Aerospace, 5G, Cloud, Autonomy. Robotics
+			{ "sTitle": "Name", "sWidth": "35%" },
+			{ "sTitle": "Description", "sWidth": "40%" },
+			{ "sTitle": "Domain", "sWidth": "10%" }, // AI, Cyber, Space, Defence & Aerospace, 5G, Cloud, Autonomy. Robotics
 			{ "sTitle": "Category", "sWidth": "10%" }, // Algorithms, Policy, Patent, Commercial, Government
-			{ "sTitle": "URL", "sWidth": "10%",
+			{ "sTitle": "URL", "sWidth": "5%",
 			"mRender": function ( data, type, full ) {
 		 			// 'full' is the row's data object, and 'data' is this column's data
 		 			// e.g. 'full[0]' is the first item, and 'data' is the URL
