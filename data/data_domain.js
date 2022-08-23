@@ -72,6 +72,10 @@
 		['SPIE Defence + Commercial Sensing','','Space','Conference','https://www.dropbox.com/s/0xmu4qhxji1lq6m/SPIE_Defence%20%2B%20Commercial%20Sensing%20%28conference%29.pdf?dl=0'],
 		['US Space industry deep dive analysis (May 2013)','','Space','Policy','https://www.dropbox.com/s/suik2uakqc56gp4/US_space%20industry%20deep%20dive%20analysis.pdf?dl=0'],
 
+		// Maritime
+		['FleetMon News','Global maritime news','Maritime','Incidents','https://www.dropbox.com/s/4n2aq7hymh4rodj/fleetmon-news_20220705.7z?dl=0'],
+		['MyShipTracking Vessel Tracking Database <img src="https://photos.fleetmon.com/vessels/zim-charleston_9461506_2069045_Medium.jpg" width="100"/>','Vessel database','Maritime','Equipment','https://www.dropbox.com/s/ucwi7tlyymxvakc/vessel_myshiptracking_20211226.7z?dl=0'],
+
 		// ontology - DBPedia
 		['5G Ontology (DBPedia)','DBPedia (format in TTL, JSON, XML)','Ontology','5G','https://www.dropbox.com/s/ioli8axvfew2kc0/5G.zip?dl=0'],
 		['Cloud Ontology (DBPedia)','DBPedia (format in TTL, JSON, XML)','Ontology','Cloud','https://www.dropbox.com/s/yotyhasi3m15kxc/Cloud.zip?dl=0'],
@@ -161,6 +165,7 @@
 		['The Ukraine-Russia War Confirms the Value of OSINT','There is no doubt that the Russian invasion of Ukraine has underscored the growing importance of open source intelligence (OSINT). Real-time updates from anyone with a cellphone or an internet connection are being posted by amateur analysts, journalists, and ordinary citizens throughout the region on social media channels and blogs, reaching thousands of people and impacting the course of the war. Footage and photos from phones, combined with commercial satellite images and Google traffic alerts, have revealed Russian troop movements and military convoys, with results shared to and from Twitter and TikTok.  (babelstreet)','RUS-UKR','OSINT','https://www.babelstreet.com/blog/the-ukraine-russia-war-confirms-the-value-of-osint'],
 		['How OSINT Has Shaped the War in Ukraine','The ability of the Ukrainian government, military, and people to tap into this wealth of information has helped shaped the war in Ukraine’s favor. Militarily, OSINT has allowed the Ukrainian military to track Russian military movements, plans, and operations. Satellite images have given Ukrainians information on areas Russian troops have attacked. Unencrypted radio waves and cell phones have allowed Ukrainians to eavesdrop on Russian communications. Social media posts, from both Russian soldiers and Ukrainian citizens, have shown what the war looks like on the ground, giving Ukrainian officials information on where and how the Russian military is operating. These advantages provided by OSINT have allowed Ukraine to challenge strongly Russia’s stronger, larger, and more technically advanced military. (americansecurityproject)','RUS-UKR','OSINT','https://www.americansecurityproject.org/osint-in-ukraine/'],
 		['Ukrainians are scrubbing open-source maps to keep intel from Russia’s army','OpenStreetMap is widely used by the world’s biggest tech companies. It’s also revealing potentially sensitive wartime intelligence. (restofworld)','RUS-UKR','OSINT','https://restofworld.org/2022/ukrainians-osint-maps-russia/'],
+		['OSINT tools to archive, document and debunk the Russian War against Ukraine','This first iteration evolved into the current set of tools displayed on this page, basically pushing the translations to different Discords, Telegram and Twitter/Web channels with the intent to facilitate access, searching and archiving','RUS-UKR','OSINT','https://osintukraine.com/'],
 
 
 
@@ -211,8 +216,12 @@
 		['XXXXX','XXXXX','Defence','JADC2','XXXXX'],
 		['XXXXX','XXXXX','Defence','JADC2','XXXXX'],
 
-	 	['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
-	 	['XXXXX','XXXXX','XXXXX','XXXX','XXXXX'],
+	 	['bellingcat Open Source Tools for Researchers','These survey results show that the online researcher community is highly diverse. Those who conduct open source investigations do not only come from a wide range of professional backgrounds — about half of them do this type of work in their spare time. Researchers told us that the tools they are most likely to use need to be free, clearly describing what they are capable of doing and how they can be used. Given that only a quarter of our respondents knew how to use the command line, tools which do not require more advanced technical skills are particularly welcome.','Tools','OSINT','https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/'],
+	 	['XXXXX','XXXXX','Tools','XXXX','XXXXX'],
+		['XXXXX','XXXXX','Tools','XXXX','XXXXX'],
+		['XXXXX','XXXXX','Tools','XXXX','XXXXX'],
+		['XXXXX','XXXXX','Tools','XXXX','XXXXX'],
+		['XXXXX','XXXXX','Tools','XXXX','XXXXX'],
 
 */
 	];
