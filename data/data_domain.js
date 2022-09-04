@@ -145,8 +145,9 @@
 		// Map
 		['Eyes on Russia: The Russia-Ukraine Monitor Map','The Russia-Ukraine Monitor Map is a crowdsourced effort by the Centre for Information Resilience as part of the ‘Eyes on Russia’ project. We work with Bellingcat, GeoConfirmed, Conflict Intelligence Team, Advance Democracy and the open source community to map, document, archive and investigate what is happening in Ukraine.(Cen4infoRes)','RUS-UKR','Map','https://maphub.net/Cen4infoRes/russian-ukraine-monitor'],
 		['Russia-Ukraine Conflict Map','(national-security.info)','RUS-UKR','Map','https://www.national-security.info/ukraine/maps.html'],
-		['Russia-Ukraine Civilian Harm Map','This map plots out and highlights incidents that have resulted in potential civilian impact or harm since Russia began its invasion of Ukraine. The incidents detailed have been collected by Bellingcat researchers. Included in the map are instances where civilian areas and infrastructure have been damaged or destroyed, where the presence of civilian injuries are visible and/or there is the presence of immobile civilian bodies. Collection for the incidences contained in this map began on February 24, 2022. Users can explore incidents by date and location. We intend this to be a living project that will continue to be updated as long as the conflict persists. (bellingcat)','RUS-UKR','Map','https://ukraine.bellingcat.com/'],
+		['Russia-Ukraine News Live Map','Ukraine, Syria, Israel (liveuamap)','RUS-UKR','Map','https://liveuamap.com/'],
 
+		['Russia-Ukraine Civilian Harm Map','This map plots out and highlights incidents that have resulted in potential civilian impact or harm since Russia began its invasion of Ukraine. The incidents detailed have been collected by Bellingcat researchers. Included in the map are instances where civilian areas and infrastructure have been damaged or destroyed, where the presence of civilian injuries are visible and/or there is the presence of immobile civilian bodies. Collection for the incidences contained in this map began on February 24, 2022. Users can explore incidents by date and location. We intend this to be a living project that will continue to be updated as long as the conflict persists. (bellingcat)','RUS-UKR','Map','https://ukraine.bellingcat.com/'],
 		['Turkish Way of Drone Warfare','Turkey s burgeoning drone-warfare edge has amplified the Turkish elite s strategic thinking. Winning contemporary wars is about winning the battle networks, and this is the underlying reason behind Turkey s success. Drone warfare has paid off in Libya, Syria, and Karabakh, among others. (atlanticcouncil)','RUS-UKR','Drone','https://www.dropbox.com/s/q3tdv59ox8ro5cw/Techno-Geopolitics_and_the_Turkish_Way_of_Drone_Warfare%20%28atlanticcouncil%29.pdf?dl=0'],
 		['Ukraine Control Map','Crowdsouced (Project Owl OSINT)','RUS-UKR','Map','https://www.google.com/maps/d/viewer?mid=180u1IkUjtjpdJWnIC0AxTKSiqK4G6Pez&ll=49.3938255078818%2C32.84786878873499&z=6'],
 		['EUR ESCAPE','(ESRI)','RUS-UKR','Map','https://www.arcgis.com/apps/webappviewer/index.html?id=c0477215792342fd8b53640341d59bdb&extent=-893540.2338%2C4092066.5241%2C8220199.5227%2C8587786.7797%2C102100'],
@@ -181,7 +182,7 @@
 
 		// Think-Tanks
 		['Think Tank reports on the invasion of Ukraine','(consilium.europa.eu)','RUS-UKR','Think-Tanks','https://www.consilium.europa.eu/en/documents-publications/library/library-blog/posts/think-tank-reports-on-the-invasion-of-ukraine/'],
-		['Institute for the Study of War','(understandingwar)','RUS-UKR','Think-Tanks','https://www.understandingwar.org/'],
+		['Institute for the Study of War','Daily Russian Offensive Campaign Assessment (understandingwar)','RUS-UKR','Think-Tanks','https://www.understandingwar.org/'],
 		['Center for Strategic and International Studies (CSIS)','(csis)','RUS-UKR','Think-Tanks','https://www.csis.org/search?f[0]=field_categories%253Afield_tags%3A1379'],
 		['War On The Rocks','(warontherocks)','RUS-UKR','Think-Tanks','https://warontherocks.com/understanding-the-russo-ukrainian-war-a-guide-from-war-on-the-rocks/'],
 
@@ -201,6 +202,9 @@
 
 
 
+		['Cyber Attacks in Times of Conflict Platform #Ukraine','Cyberattacks and operations in times of conflict cause harm to civilians. (cyberpeaceinstitute)','RUS-UKR','Cyber-Info','https://cyberconflicts.cyberpeaceinstitute.org/'],
+		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
+		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 
