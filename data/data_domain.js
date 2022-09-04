@@ -181,7 +181,7 @@
 		['Russia vs NATO Ukraine Air War 2022','Using Command Modern Operations (CMO)','RUS-UKR','Training & Simulation Wargaming','https://www.youtube.com/watch?v=htfT-9UpjWc'],
 
 		// Think-Tanks
-		['Think Tank reports on the invasion of Ukraine','(consilium.europa.eu)','RUS-UKR','Think-Tanks','https://www.consilium.europa.eu/en/documents-publications/library/library-blog/posts/think-tank-reports-on-the-invasion-of-ukraine/'],
+		['Think Tank reports on the invasion of Ukraine','This is a non-exhaustive collection of Think Tanks reports on the invasion of Ukraine, covering the period from February 2022 onwards, which is regularly updated: (consilium.europa.eu)','RUS-UKR','Think-Tanks','https://www.consilium.europa.eu/en/documents-publications/library/library-blog/posts/think-tank-reports-on-the-invasion-of-ukraine/'],
 		['Institute for the Study of War','Daily Russian Offensive Campaign Assessment (understandingwar)','RUS-UKR','Think-Tanks','https://www.understandingwar.org/'],
 		['Center for Strategic and International Studies (CSIS)','(csis)','RUS-UKR','Think-Tanks','https://www.csis.org/search?f[0]=field_categories%253Afield_tags%3A1379'],
 		['War On The Rocks','(warontherocks)','RUS-UKR','Think-Tanks','https://warontherocks.com/understanding-the-russo-ukrainian-war-a-guide-from-war-on-the-rocks/'],
