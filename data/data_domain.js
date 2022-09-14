@@ -67,7 +67,7 @@
 		['US Airforce - Advanced Battlefield Management System (ABMS)','(fedscoop)','Defence','JADC2','https://www.fedscoop.com/tag/advanced-battlefield-management-system/'],
 		['US Army - Project Convergence','(fedscoop)','Defence','JADC2','https://www.fedscoop.com/tag/project-convergence/'],
 		['US Navy - Project Overmatch','(fedscoop)','Defence','JADC2','https://www.fedscoop.com/tag/project-overmatch/'],
-		['JADC2-related News articles','', 'Defence','JADC2','https://www.dropbox.com/s/0pgutu6bmyqsath/US_JADC2.docx?dl=0'],
+		['JADC2-related News articles','One of the foundational components of the JADC2 initiative is the Electromagnetic Battle Management System, which another official said the Pentagon is working to bring to life. The EMBM is a situational awareness tool that will enable Joint Electromagnetic Spectrum Operations cells to better operate in contested environments.', 'Defence','JADC2','https://www.dropbox.com/s/0pgutu6bmyqsath/US_JADC2.docx?dl=0'],
 
 		// Space
 		['China Space and Counterspace Activities','','Space','Policy','https://www.dropbox.com/s/h9t5deyl4m3dp1g/CN_China_Space_and_Counterspace_Activities.pdf?dl=0'],
