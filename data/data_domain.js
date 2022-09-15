@@ -203,7 +203,7 @@
 
 
 		['Cyber Attacks in Times of Conflict Platform #Ukraine','Cyberattacks and operations in times of conflict cause harm to civilians. (cyberpeaceinstitute)','RUS-UKR','Cyber-Info','https://cyberconflicts.cyberpeaceinstitute.org/'],
-		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
+		['Cybil Portal - Country=specific Projects','(cybilportal)','Cyber','Cyber-Info','https://cybilportal.org/projects-by?page=country&_sft_country=singapore'],
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
