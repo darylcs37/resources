@@ -58,24 +58,23 @@
 		['Hypersonic Weapons Primer (Jul 2019)','(afpc.org)','Defence','Hypersonic','https://www.dropbox.com/s/zhsvg5i8778pvvc/Hypersonic_Weapons_Primer_201907_%28afpc.org%29.pdf?dl=0'],
 
 		// JADC2
-		['What Is JADC2, and How Does It Relate to Training? An Air Force Perspective on Joint All Domain Command and Control','(rand)','Defence','JADC2','https://www.dropbox.com/s/r08n1j0ceitb7g2/US_JADC2_An%20Air%20Force%20Perspective%20%28rand%29.pdf?dl=0'],
-		['One-Size-Fits-None: Overhauling JADC2 to Prioritize the Warfighter and Exploit Adversaries’ Weaknesses','(hudson institute)','Defence','JADC2','https://www.dropbox.com/s/bozxl893zq7o229/US_JADC2_Clark%20Patt_One%20Size%20Fits%20None.pdf?dl=0'],
-		['JADC2 - A Summary','(dod)','Defence','JADC2','https://www.dropbox.com/s/4zwn1zk08thf7ri/US_JADC2_summary.PDF?dl=0'],
-		['Army multi-domain operations 2019','(US army)','Defence','JADC2','https://www.dropbox.com/s/qlxskw5can1pbyg/US_JADC2_Army%20multi%20domain%20operations%202019.pdf?dl=0'],
-		['News - JADC2','Aggregated News Feeds (inoreader)','Defence','JADC2','https://www.inoreader.com/stream/user/1004633940/tag/JADC2/view/html'],
-		['US DOD - Joint All-Domain Command and Control (JADC2)','JADC2 is a combination of new technology, processes and new organizations that will enable the joint force to converge effects from all five domains. The Army has several on-going modernization efforts to increase interoperability, situational awareness and lethality that will enable any shooter, with any sensor, through any command and control node, in near-real time to employ joint and mission partner effects. The military services each have their own independent JADC2-focused paths: The Army hosts its annual Project Convergence sensor-to-shooter “learning campaign” in the Arizona desert, the Navy has its own Project Overmatch and the Air Force has its Advanced Battle Management System. (fedscoop)','Defence','JADC2','https://www.fedscoop.com/tag/joint-all-domain-command-and-control-jadc2/'],
-		['US Airforce - Advanced Battlefield Management System (ABMS)','(fedscoop)','Defence','JADC2','https://www.fedscoop.com/tag/advanced-battlefield-management-system/'],
-		['US Army - Project Convergence','(fedscoop)','Defence','JADC2','https://www.fedscoop.com/tag/project-convergence/'],
-		['US Navy - Project Overmatch','(fedscoop)','Defence','JADC2','https://www.fedscoop.com/tag/project-overmatch/'],
-		['JADC2-related News articles','One of the foundational components of the JADC2 initiative is the Electromagnetic Battle Management System, which another official said the Pentagon is working to bring to life. The EMBM is a situational awareness tool that will enable Joint Electromagnetic Spectrum Operations cells to better operate in contested environments.', 'Defence','JADC2','https://www.dropbox.com/s/0pgutu6bmyqsath/US_JADC2.docx?dl=0'],
+		// ['XXXXX','XXXXX','RUS-UKR','C2-JADC2','XXXXX'],
+		['What Is JADC2, and How Does It Relate to Training? An Air Force Perspective on Joint All Domain Command and Control','(rand)','Defence','C2-JADC2','https://www.dropbox.com/s/r08n1j0ceitb7g2/US_JADC2_An%20Air%20Force%20Perspective%20%28rand%29.pdf?dl=0'],
+		['One-Size-Fits-None: Overhauling JADC2 to Prioritize the Warfighter and Exploit Adversaries’ Weaknesses','(hudson institute)','Defence','C2-JADC2','https://www.dropbox.com/s/bozxl893zq7o229/US_JADC2_Clark%20Patt_One%20Size%20Fits%20None.pdf?dl=0'],
+		['JADC2 - A Summary','(dod)','Defence','C2-JADC2','https://www.dropbox.com/s/4zwn1zk08thf7ri/US_JADC2_summary.PDF?dl=0'],
+		['Army multi-domain operations 2019','(US army)','Defence','C2-JADC2','https://www.dropbox.com/s/qlxskw5can1pbyg/US_JADC2_Army%20multi%20domain%20operations%202019.pdf?dl=0'],
+		['News - JADC2','Aggregated News Feeds (inoreader)','Defence','C2-JADC2','https://www.inoreader.com/stream/user/1004633940/tag/JADC2/view/html'],
+		['US DOD - Joint All-Domain Command and Control (JADC2)','C2-JADC2 is a combination of new technology, processes and new organizations that will enable the joint force to converge effects from all five domains. The Army has several on-going modernization efforts to increase interoperability, situational awareness and lethality that will enable any shooter, with any sensor, through any command and control node, in near-real time to employ joint and mission partner effects. The military services each have their own independent JADC2-focused paths: The Army hosts its annual Project Convergence sensor-to-shooter “learning campaign” in the Arizona desert, the Navy has its own Project Overmatch and the Air Force has its Advanced Battle Management System. (fedscoop)','Defence','JADC2','https://www.fedscoop.com/tag/joint-all-domain-command-and-control-jadc2/'],
+		['US Airforce - Advanced Battlefield Management System (ABMS)','(fedscoop)','Defence','C2-JADC2','https://www.fedscoop.com/tag/advanced-battlefield-management-system/'],
+		['US Army - Project Convergence','(fedscoop)','Defence','C2-JADC2','https://www.fedscoop.com/tag/project-convergence/'],
+		['US Navy - Project Overmatch','(fedscoop)','Defence','C2-JADC2','https://www.fedscoop.com/tag/project-overmatch/'],
+		['JADC2-related News articles','One of the foundational components of the JADC2 initiative is the Electromagnetic Battle Management System, which another official said the Pentagon is working to bring to life. The EMBM is a situational awareness tool that will enable Joint Electromagnetic Spectrum Operations cells to better operate in contested environments.', 'Defence','C2-JADC2','https://www.dropbox.com/s/0pgutu6bmyqsath/US_JADC2.docx?dl=0'],
+		['The Army Risks Reasoning Backwards in Analyzing Ukraine','Question Multi-Domain Operations Rather than Reason Backwards (warontherocks)','Defence','C2-JADC2','https://warontherocks.com/2022/06/the-army-risks-reasoning-backwards-in-analyzing-ukraine/'],
 
-		// Space
-		['China Space and Counterspace Activities','','Space','Policy','https://www.dropbox.com/s/h9t5deyl4m3dp1g/CN_China_Space_and_Counterspace_Activities.pdf?dl=0'],
-		['SG OSTIn','','Space','Policy','https://www.dropbox.com/s/3qno7eltgbarpni/SG_OSTIn.pdf?dl=0'],
-		['SPIE Defence + Commercial Sensing','','Space','Conference','https://www.dropbox.com/s/0xmu4qhxji1lq6m/SPIE_Defence%20%2B%20Commercial%20Sensing%20%28conference%29.pdf?dl=0'],
-		['US Space industry deep dive analysis (May 2013)','','Space','Policy','https://www.dropbox.com/s/suik2uakqc56gp4/US_space%20industry%20deep%20dive%20analysis.pdf?dl=0'],
+
 
 		// Maritime
+		// ['XXXXX','XXXXX','RUS-UKR','Maritime','XXXXX'],
 		['FleetMon News','Global maritime news','Maritime','Incidents','https://www.dropbox.com/s/4n2aq7hymh4rodj/fleetmon-news_20220705.7z?dl=0'],
 		['MyShipTracking Vessel Tracking Database <img src="https://photos.fleetmon.com/vessels/zim-charleston_9461506_2069045_Medium.jpg" width="100"/>','Vessel database','Maritime','Equipment','https://www.dropbox.com/s/ucwi7tlyymxvakc/vessel_myshiptracking_20211226.7z?dl=0'],
 
@@ -95,6 +94,9 @@
 		// RUS-UK
 
 		// CONOPS
+		// 		['XXXXX','XXXXX','RUS-UKR','CONOPS','XXXXX'],
+		['Collection of articles','Insights into employment and effectiveness of platform, equipment and asset include training & logistics support, TTPs, doctrines. Changes to defence acquisition strategy.','RUS-UKR','CONOPS','https://www.dropbox.com/s/5ul1xej6fw0cqae/RUS-UKR_CONOPS.docx?dl=0'],
+		['The Tank Is Not Obsolete, and Other Observations About the Future of Combat','Some interesting analysis on tank losses in Ukraine which offers a counter view to the prophecy that the tank is dead (again). This article reinforces the need for Armour-Infantry integration, Air Defence-Manoeuvre integration and well planned and protected logistics and combat service support. (warontherocks)','RUS-UKR','CONOPS','https://warontherocks.com/2022/09/the-tank-is-not-obsolete-and-other-observations-about-the-future-of-combat/ '],
 		['Russia’s “New” Military Theory Updating Classical and Asymmetric Techniques','A new understanding of warfare appears under development in Russia. This article will focus first on some brief examples of Russian classical methods, especially different ways they can be updated such as operational art in space or integrated. That discussion is followed with a consideration of several elements that compose Russian asymmetrical thinking. The article concludes with an examination of a potential scenario involving the integration of classical and asymmetric methods that might be explored in Russian gaming exercises. (mitre)','RUS-UKR','CONOPS','https://www.dropbox.com/s/r3eopgpx7lvbzpj/RUS-UKR_CONOPS_Russia%E2%80%99s%20%E2%80%9CNew%E2%80%9D%20Military%20Theory%20Updating%20Classical%20and%20Asymmetric%20Techniques_202005%20%28mitre%29.docx?dl=0'],
 		['Russian Planning Visions for Large-Scale Warfare: “Planetary, Theater, and Territorial” Considerations','(mitre)','RUS-UKR','CONOPS','https://www.dropbox.com/s/m0dp0btasj01yy9/RUS-UKR_CONOPS_Russian%20Planning%20Visions%20%28mitre%29.pdf?dl=0'],
 		['Russian Military Strategy Core Tenets and Operational Concepts','This paper explores the core tenets of Russian military strategy and associated operational concepts, situating its role within the Russian system of knowledge on military security. Russian military leaders describe the prevailing strategy as ‘active defense,’ a strategic concept integrating preemptive measures to anticipate and prevent conflict, wartime concepts of operations that seek to deny an opponent decisive victory in the initial period of war, degrading  and disorganizing their effort, while setting the conditions to attain war termination on acceptable terms. (cna)','RUS-UKR','CONOPS','https://www.dropbox.com/s/75np1gm8a8zvhyw/RUS-UKR_CONOPS_russian-military-strategy-core-tenets-and-operational-concepts.pdf?dl=0'],
@@ -103,7 +105,10 @@
 		['The Changing Character of Combined Arms','The dialogue to date lacks is a broader conceptualization of how the character of combined arms is changing in what is best described as the new missile age. The ability of tactical units — from squads to individual fighter aircraft — to conduct precision strikes across the depth of the battlefield, all captured and circulated on social media, changes how we think about tempo, decision-making, and combined arms. (warontherocks)','RUS-UKR','CONOPS','https://warontherocks.com/2022/05/the-changing-character-of-combined-arms/'],
 		['Russian military experiments with command-and-control in Ukraine','(janes)','RUS-UKR','CONOPS','https://www.dropbox.com/s/r6r641meih2vd4c/RUS-UKR_CONOPS_Ukraine%20conflict%20Russian%20military%20experiments%20with%20command-and-control%20in%20Ukraine.docx?dl=0'],
 
+
+
 		// Cyber-Info
+		// ['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 		['Digital Watch observatory','Digital technology plays an important, if not decisive, role in the Ukraine-Russia conflict. Cyberattacks increase as the conflict escalates. Decisions by Big Tech and social media platforms about the services they provide or block directly impact the situation on the ground. Emerging technologies, such as cryptocurrencies, find new applications. Sanctions will impact the development of technology and e-commerce. (dig.watch)','RUS-UKR','Cyber-Info','https://dig.watch/ukraine-crisis-a-timeline-of-developments'],
 		['Russia-Ukraine ConflictMisinfo Dashboard','The Russia-Ukraine ConflictMisinfo Dashboard is an information management tool for monitoring online misinformation and disinformation about the 2022 Russia’s invasion of Ukraine. It tracks and visualizes debunked claims from 100s of trusted fact-checkers from around the world.','RUS-UKR','OSINT','https://datastudio.google.com/u/0/reporting/829691d8-d2f9-49ab-ac8b-4343ca9c960b/page/Kn2IB'],
 		['Russia Cyber Threat Overview and Advisories','(cisa.gov)','RUS-UKR','Cyber-Info','https://www.cisa.gov/uscert/russia'],
@@ -123,16 +128,22 @@
 		['Cyber Operations Tracker',' The Digital and Cyberspace Policy program’s cyber operations tracker is a database of the publicly known state-sponsored incidents that have occurred since 2005. Know of an incident not listed in the tracker?(cfr)','RUS-UKR','Cyber-Info','https://www.cfr.org/cyber-operations/'],
 
 		// Drone
+		// ['XXXXX','XXXXX','RUS-UKR','Drone','XXXXX'],
+		 ['The Tank Is Dead: Long Live the Javelin, the Switchblade...','In the past decade the growing ubiquity of unmanned aerial systems on the battlefield has been stunning. Be they Predators, Reapers, Switchblades, Turkish TB2s, loitering munitions, or weaponized toys, unmanned aerial systems are a capability with which to be reckoned. As already noted, many existing armored ground systems are vulnerable to top-down attacks. This type of attack can also be delivered by drones. Other uses that have shown great utility include intelligence, surveillance, and reconnaissance; geolocating targets; communications relays; and jamming, to mention but a few. (warontherocks)','RUS-UKR','Drone','https://warontherocks.com/2022/04/the-tank-is-dead-long-live-the-javelin-the-switchblade-the/'],
 		['Turkish Way of Drone Warfare','Turkeys burgeoning drone-warfare edge has amplified the Turkish elite s strategic thinking. Winning contemporary wars is about winning the battle networks, and this is the underlying reason behind Turkey s success. Drone warfare has paid off in Libya, Syria, and Karabakh, among others. (atlanticcouncil)','RUS-UKR','Drone','https://www.dropbox.com/s/q3tdv59ox8ro5cw/RUS-UKR_Drone_Techno-Geopolitics_and_the_Turkish_Way_of_Drone_Warfare%20%28atlanticcouncil%29.pdf?dl=0'],
 		['Russia-Ukraine Drone-related news articles','Why drones are silent heroes in modern warfare between Ukraine and Russia','RUS-UKR','Drone','https://www.dropbox.com/s/tonabira54eou7o/RUS-UKR_Drone.docx?dl=0'],
 		['Bayraktar TB2 Armed Drone','In the Ukraine conflict the TB2 has scored some impressive kills against Russian tanks, armored vehicles, artillery pieces, and short-range air defense systems. The Turks have also employed the TB2 in Syria and Iraq since 2014.','RUS-UKR','Drone','https://www.national-security.info/ukraine/weapons/bayraktar-tb2-drone.html'],
 
+
+
 		// Equipment
-		['Arms Transfers to Ukraine','Ukraine arms transfers As tensions mounted in late 2021 and into 2022 concerning a Russian invasion of Ukraine, many countries announced arms transfers to Ukraine. As the invasion began in late February, this resource page was launched to track developments related to such transfers, which thus far includes pledges and/or deliveries from more than 25 countries plus the European Union. (forumarmstrade)','RUS-UKR','Arms Transfer','https://www.forumarmstrade.org/ukrainearms.html'],
+		// ['XXXXX','XXXXX','RUS-UKR','Equipment','XXXXX'],
+		['Arms Transfers to Ukraine','Ukraine arms transfers As tensions mounted in late 2021 and into 2022 concerning a Russian invasion of Ukraine, many countries announced arms transfers to Ukraine. As the invasion began in late February, this resource page was launched to track developments related to such transfers, which thus far includes pledges and/or deliveries from more than 25 countries plus the European Union. (forumarmstrade)','RUS-UKR','Equipment','https://www.forumarmstrade.org/ukrainearms.html'],
 		['Loitering munition','(janes)','RUS-UKR','Equipment','https://www.dropbox.com/s/x9vl8necpxj2ctd/Loitering%20munition%20%28Janes%29.pptx?dl=0'],
 		['Janes Equipment Profile - Ukraine Conflict (Mar 2022)','(janes)','RUS-UKR','Equipment','https://www.dropbox.com/s/pcj0rrdugwfl01e/Janes%20Equipment%20Profile%20-%20Ukraine%20Conflict_202203%20%28janes%29.pdf?dl=0'],
 
 		// General
+		// ['XXXXX','XXXXX','RUS-UKR','General','XXXXX'],
 		['Ukrainian tech sector in wartime','(techukraine.org)','RUS-UKR','General','https://techukraine.org/2022/07/02/ukrainian-tech-sector-in-wartime-june-edition/'],
 		['Disrupters and Defenders: What the Ukraine War Has Taught Us About the Power of Global Tech Companies','(institute.global)','RUS-UKR','General','https://institute.global/policy/disrupters-and-defenders-what-ukraine-war-has-taught-us-about-power-global-tech-companies'],
 		['Global Impact of War In Ukraine','(futuresplatform)','RUS-UKR','General','https://www.futuresplatform.com/foresight-radar/ukraine-war-global-impacts'],
@@ -195,11 +206,19 @@
 		['Institute for the Study of War','Daily Russian Offensive Campaign Assessment (understandingwar)','RUS-UKR','Think-Tanks','https://www.understandingwar.org/'],
 		['Center for Strategic and International Studies (CSIS)','(csis)','RUS-UKR','Think-Tanks','https://www.csis.org/search?f[0]=field_categories%253Afield_tags%3A1379'],
 		['War On The Rocks','(warontherocks)','RUS-UKR','Think-Tanks','https://warontherocks.com/understanding-the-russo-ukrainian-war-a-guide-from-war-on-the-rocks/'],
+		['Russia’s War in Ukraine: Military and Intelligence Aspects','(crsreports)','RUS-UKR','Think-Tanks','https://www.dropbox.com/s/wtpixhk7g2nt4t5/RUS-UKR_Think%20Tank_Russia%20War%20in%20Ukraine_Military%20and%20Intelligence%20Aspects_20220914%20%28crsreports%29.pdf?dl=0'],
 
 		// Training & Simulation
 		// ['XXXXX','XXXXX','RUS-UKR','Training','XXXXX'],
 		['News - Training & Simulation','Aggregated News Feeds (inoreader)','RUS-UKR','Training & Simulation Wargaming','https://www.inoreader.com/stream/user/1004633940/tag/Training%20%26%20Simulation/view/html'],
 		['Russia vs NATO Ukraine Air War 2022','Using Command Modern Operations (CMO)','RUS-UKR','Training & Simulation Wargaming','https://www.youtube.com/watch?v=htfT-9UpjWc'],
+
+		// Space
+		// ['XXXXX','XXXXX','RUS-UKR','Space','XXXXX'],
+		['China Space and Counterspace Activities','','Space','Think-Tanks','https://www.dropbox.com/s/h9t5deyl4m3dp1g/CN_China_Space_and_Counterspace_Activities.pdf?dl=0'],
+		['SG OSTIn','','Space','Policy','https://www.dropbox.com/s/3qno7eltgbarpni/SG_OSTIn.pdf?dl=0'],
+		['SPIE Defence + Commercial Sensing','','Space','Conference','https://www.dropbox.com/s/0xmu4qhxji1lq6m/SPIE_Defence%20%2B%20Commercial%20Sensing%20%28conference%29.pdf?dl=0'],
+		['US Space industry deep dive analysis (May 2013)','','Space','Policy','https://www.dropbox.com/s/suik2uakqc56gp4/US_space%20industry%20deep%20dive%20analysis.pdf?dl=0'],
 
 
 	/*
