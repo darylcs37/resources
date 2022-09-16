@@ -13,6 +13,14 @@
 		['Synthetic Data for Deep Learning (Sep 2019)','','AI','Algorithm','https://www.dropbox.com/s/fe3ipyq0ff9kgzq/AI_Algo_Synthetic%20Data%20for%20Deep%20Learning_201909.pdf?dl=0'],
 		['Entity-Oriented Search (springer)','','AI','Algorithm','https://www.dropbox.com/s/8p38kvgynbl7wu9/AI_Algo_KG_Entity-Oriented%20Search%20%28springer%29.pdf?dl=0'],
 
+		// AR/VR/Mixed Reality/MetaVerse
+		// 		['XXXXX','XXXXX','AR-VR','MetaVerse','XXXXX'],
+		['MetaVerse Primer','1) Framework for the Metaverse, 2) Hardware and the Metaverse, 3) Networking and the Metaverse, 4) Compute and the Metaverse, 5) Virtual Platforms and the Metaverse, 6) Interchange Tools + Standards and the Metaverse, 7) Payments, Payment Rails, and Blockchains, and the Metaverse, 8) Content, Services, and Asset Businesses in the Metaverse, 9) Evolving User + Business Behaviors and the Metaverse, 10) The Metaverse: What It Is, Where to Find it, and Who Will Build It','AR-VR','MetaVerse','https://www.dropbox.com/s/qgpht5pnbk1qwa8/AR_MetaVerse%20Primer.docx?dl=0'],
+		['Matthew Ball Blog',' ','AR-VR','MetaVerse','https://www.matthewball.vc/the-metaverse'],
+		['Intro to Metaverse - Newzoo Trend Report 2021','','AR-VR','MetaVerse','https://www.dropbox.com/s/279gnxhjaj4ddkg/Introduction-to-the-Metaverse-Report-2021%20%28newzoo%29.pdf?dl=0'],
+		['The Future of (Synthetic) Media','Synthesia was founded in 2017 by a team of AI researchers and entrepreneurs from UCL, Stanford, TUM and Cambridge. Our mission is to empower everyone to make video content - without cameras, microphones or studios. ','AR-VR','MetaVerse','https://www.synthesia.io/post/the-future-of-synthetic-media		'],
+		['MetaPhysic blog','MetaPhysic.AI - AI content generation tools and infrastructure','AR-VR','MetaVerse','https://metaphysic.ai/blog/'],
+
 		// Autonomy-Robotics-Drones
 		['Drone Databook (Mar 2020)','','Autonomy-Robotics','Drone','https://www.dropbox.com/s/4onywr1vq83t5ph/Drone-Databook_202003.pdf?dl=0'],
 		['Security analysis of drones systems','','Autonomy-Robotics','Drones','https://www.dropbox.com/s/4r6bt8ucqpsw1m3/drone_ontology_security%20analysis%20of%20drones%20systems.pdf?dl=0'],
@@ -57,8 +65,17 @@
 		['Hypersonic Weapons - Background and Issues (Oct 2021)','(US Congress)','Defence','Hypersonic','https://www.dropbox.com/s/xb18o90fpuoq0y3/Hypersonic_Weapons%20-%20Background%20and%20Issues_202110_%28US%20Congress%29.pdf?dl=0'],
 		['Hypersonic Weapons Primer (Jul 2019)','(afpc.org)','Defence','Hypersonic','https://www.dropbox.com/s/zhsvg5i8778pvvc/Hypersonic_Weapons_Primer_201907_%28afpc.org%29.pdf?dl=0'],
 
+		// News Inoreader - aggregated news
+		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
+		['News - AR/VR/Mixed Reality/Metaverse','Aggregated News Feeds (inoreader)','AR-VR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/XR%20AR%20MR/view/html'],
+		['News - Robotics / Unmanned','Aggregated News Feeds (inoreader)','Drone','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Robot%20-%20unmanned/view/html'],
+		['News - EW / Radar / ELINT','Aggregated News Feeds (inoreader)','EW','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/EW%20Radar%20ELINT/view/html'],
+		['News - Space','Aggregated News Feeds (inoreader)','Space','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Space/view/html'],
+		['News - Infrastructure','Aggregated News Feeds (inoreader)','Infrastructure','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Infrastructure/view/html'],
+		['News - Research Labs (Industry / Academia / Govt)','Aggregated News Feeds (inoreader)','Research Labs','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Research%20Labs%20%28Industry%20%2F%20Academia%20%2F%20Govt%29/view/html'],
+
 		// JADC2
-		// ['XXXXX','XXXXX','RUS-UKR','C2-JADC2','XXXXX'],
+		// ['XXXXX','XXXXX','Defence','C2-JADC2','XXXXX'],
 		['What Is JADC2, and How Does It Relate to Training? An Air Force Perspective on Joint All Domain Command and Control','(rand)','Defence','C2-JADC2','https://www.dropbox.com/s/r08n1j0ceitb7g2/US_JADC2_An%20Air%20Force%20Perspective%20%28rand%29.pdf?dl=0'],
 		['One-Size-Fits-None: Overhauling JADC2 to Prioritize the Warfighter and Exploit Adversaries’ Weaknesses','(hudson institute)','Defence','C2-JADC2','https://www.dropbox.com/s/bozxl893zq7o229/US_JADC2_Clark%20Patt_One%20Size%20Fits%20None.pdf?dl=0'],
 		['JADC2 - A Summary','(dod)','Defence','C2-JADC2','https://www.dropbox.com/s/4zwn1zk08thf7ri/US_JADC2_summary.PDF?dl=0'],
@@ -70,8 +87,6 @@
 		['US Navy - Project Overmatch','(fedscoop)','Defence','C2-JADC2','https://www.fedscoop.com/tag/project-overmatch/'],
 		['JADC2-related News articles','One of the foundational components of the JADC2 initiative is the Electromagnetic Battle Management System, which another official said the Pentagon is working to bring to life. The EMBM is a situational awareness tool that will enable Joint Electromagnetic Spectrum Operations cells to better operate in contested environments.', 'Defence','C2-JADC2','https://www.dropbox.com/s/0pgutu6bmyqsath/US_JADC2.docx?dl=0'],
 		['The Army Risks Reasoning Backwards in Analyzing Ukraine','Question Multi-Domain Operations Rather than Reason Backwards (warontherocks)','Defence','C2-JADC2','https://warontherocks.com/2022/06/the-army-risks-reasoning-backwards-in-analyzing-ukraine/'],
-
-
 
 		// Maritime
 		// ['XXXXX','XXXXX','RUS-UKR','Maritime','XXXXX'],
@@ -105,7 +120,10 @@
 		['The Changing Character of Combined Arms','The dialogue to date lacks is a broader conceptualization of how the character of combined arms is changing in what is best described as the new missile age. The ability of tactical units — from squads to individual fighter aircraft — to conduct precision strikes across the depth of the battlefield, all captured and circulated on social media, changes how we think about tempo, decision-making, and combined arms. (warontherocks)','RUS-UKR','CONOPS','https://warontherocks.com/2022/05/the-changing-character-of-combined-arms/'],
 		['Russian military experiments with command-and-control in Ukraine','(janes)','RUS-UKR','CONOPS','https://www.dropbox.com/s/r6r641meih2vd4c/RUS-UKR_CONOPS_Ukraine%20conflict%20Russian%20military%20experiments%20with%20command-and-control%20in%20Ukraine.docx?dl=0'],
 
-
+		// Comms
+		// 		['XXXXX','XXXXX','RUS-UKR','Comms','XXXXX'],
+		['How Starlink Scrambled to Keep Ukraine Online','The speedy, widespread rollout of Starlink in Ukraine has been an unplanned experiment in the potential geopolitical power of next-gen satellite internet services. If SpaceX or similar providers are willing, high-speed internet from the sky could be a powerful way to provide connectivity to people or populations suffering the privations of war or authoritarian government. “In Ukraine you could see immediately that Starlink and other constellations mean you have the opportunity to have a resilient system protected from traditional ground attacks or control,” says Rose Croshier, a policy fellow at the Center for Global Development, a think tank headquartered in Washington, DC. SpaceX did not respond to queries about its work in Ukraine or whether it might offer Starlink in other conflict zones or places where internet access is restricted. (wired)','RUS-UKR','Comms-Starlink','https://www.wired.com/story/starlink-ukraine-internet/'],
+		['Russia hacked an American satellite company one hour before the Ukraine invasion','The operation resulted in an immediate and significant loss of communication in the earliest days of the war for the Ukrainian military, which relied on Viasat’s services for command and control of the country’s armed forces.  It is one of the first real-world examples of how cyberattacks can be targeted and timed to amplify military forces on the ground by disrupting and even destroying the technology used by enemy forces. The attack, on February 24, launched destructive “wiper” malware called AcidRain against Viasat modems and routers, quickly erasing all the data on the system. The machines then rebooted and were permanently disabled. Thousands of terminals were effectively destroyed in this way.  (technologyreview)','RUS-UKR','Comms','https://www.technologyreview.com/2022/05/10/1051973/russia-hack-viasat-satellite-ukraine-invasion/'],
 
 		// Cyber-Info
 		// ['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
@@ -149,7 +167,6 @@
 		['Global Impact of War In Ukraine','(futuresplatform)','RUS-UKR','General','https://www.futuresplatform.com/foresight-radar/ukraine-war-global-impacts'],
 
 		// EW
-
 		['EW Podcast 22: Taking Stock – Russian Electronic Warfare Evolves in Ukraine','Video','RUS-UKR','EW','https://www.youtube.com/watch?v=HDTKAAlPZos'],
 		['Hawkeye 360 Signal Detection Reveals Gps Interference In Ukraine','hawkeye-360','RUS-UKR','EW','https://www.he360.com/hawkeye-360-signal-detection-reveals-gps-interference-in-ukraine/'],
 		['Why isn’t Russia doing more to jam GPS in Ukraine?','(c4isrnet)','RUS-UKR','EW','https://www.c4isrnet.com/opinion/2022/07/22/why-isnt-russia-jamming-gps-harder-in-ukraine/'],
@@ -177,11 +194,6 @@
 		['News - Alert5','(alert5)','RUS-UKR','News - Aviation','https://alert5.com/'],
 		['News - The Aviationist','(theaviationist)','RUS-UKR','News - Aviation','https://theaviationist.com/'],
 
-		['News - Robotics / Unmanned','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Robot%20-%20unmanned/view/html'],
-		['News - EW / Radar / ELINT','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/EW%20Radar%20ELINT/view/html'],
-		['News - Space','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Space/view/html'],
-		['News - Infrastructure','Aggregated News Feeds (inoreader)','RUS-UKR','News','https://www.inoreader.com/stream/user/1004633940/tag/Infrastructure/view/html'],
-
 		// OSINT
 		['CovetShores','(hisutton)','RUS-UKR','OSINT','http://www.hisutton.com/'],
 		['BellingCat','(bellingcat)','RUS-UKR','OSINT','https://www.bellingcat.com/tag/ukraine/'],
@@ -202,6 +214,7 @@
 
 
 		// Think-Tanks
+		// ['XXXXX','XXXXX','RUS-UKR','Think-Tanks','XXXXX'],
 		['Think Tank reports on the invasion of Ukraine','This is a non-exhaustive collection of Think Tanks reports on the invasion of Ukraine, covering the period from February 2022 onwards, which is regularly updated: (consilium.europa.eu)','RUS-UKR','Think-Tanks','https://www.dropbox.com/s/249k909r0kfsz40/RUS-UKR_Think%20Tank%20reports.docx?dl=0'],
 		['Institute for the Study of War','Daily Russian Offensive Campaign Assessment (understandingwar)','RUS-UKR','Think-Tanks','https://www.understandingwar.org/'],
 		['Center for Strategic and International Studies (CSIS)','(csis)','RUS-UKR','Think-Tanks','https://www.csis.org/search?f[0]=field_categories%253Afield_tags%3A1379'],
@@ -212,6 +225,7 @@
 		// ['XXXXX','XXXXX','RUS-UKR','Training','XXXXX'],
 		['News - Training & Simulation','Aggregated News Feeds (inoreader)','RUS-UKR','Training & Simulation Wargaming','https://www.inoreader.com/stream/user/1004633940/tag/Training%20%26%20Simulation/view/html'],
 		['Russia vs NATO Ukraine Air War 2022','Using Command Modern Operations (CMO)','RUS-UKR','Training & Simulation Wargaming','https://www.youtube.com/watch?v=htfT-9UpjWc'],
+
 
 		// Space
 		// ['XXXXX','XXXXX','RUS-UKR','Space','XXXXX'],
