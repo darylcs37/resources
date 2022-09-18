@@ -65,14 +65,6 @@
 		['Hypersonic Weapons - Background and Issues (Oct 2021)','(US Congress)','Defence','Hypersonic','https://www.dropbox.com/s/xb18o90fpuoq0y3/Hypersonic_Weapons%20-%20Background%20and%20Issues_202110_%28US%20Congress%29.pdf?dl=0'],
 		['Hypersonic Weapons Primer (Jul 2019)','(afpc.org)','Defence','Hypersonic','https://www.dropbox.com/s/zhsvg5i8778pvvc/Hypersonic_Weapons_Primer_201907_%28afpc.org%29.pdf?dl=0'],
 
-		// News Inoreader - aggregated news
-		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
-		['News - AR/VR/Mixed Reality/Metaverse','Aggregated News Feeds (inoreader)','AR-VR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/XR%20AR%20MR/view/html'],
-		['News - Robotics / Unmanned','Aggregated News Feeds (inoreader)','Drone','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Robot%20-%20unmanned/view/html'],
-		['News - EW / Radar / ELINT','Aggregated News Feeds (inoreader)','EW','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/EW%20Radar%20ELINT/view/html'],
-		['News - Space','Aggregated News Feeds (inoreader)','Space','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Space/view/html'],
-		['News - Infrastructure','Aggregated News Feeds (inoreader)','Infrastructure','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Infrastructure/view/html'],
-		['News - Research Labs (Industry / Academia / Govt)','Aggregated News Feeds (inoreader)','Research Labs','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Research%20Labs%20%28Industry%20%2F%20Academia%20%2F%20Govt%29/view/html'],
 
 		// JADC2
 		// ['XXXXX','XXXXX','Defence','C2-JADC2','XXXXX'],
@@ -92,6 +84,23 @@
 		// ['XXXXX','XXXXX','RUS-UKR','Maritime','XXXXX'],
 		['FleetMon News','Global maritime news','Maritime','Incidents','https://www.dropbox.com/s/4n2aq7hymh4rodj/fleetmon-news_20220705.7z?dl=0'],
 		['MyShipTracking Vessel Tracking Database <img src="https://photos.fleetmon.com/vessels/zim-charleston_9461506_2069045_Medium.jpg" width="100"/>','Vessel database','Maritime','Equipment','https://www.dropbox.com/s/ucwi7tlyymxvakc/vessel_myshiptracking_20211226.7z?dl=0'],
+
+		// News Inoreader - aggregated news
+		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
+		['News - 5G','Aggregated News Feeds (inoreader)','5G','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/5G%20Telco/view/html'],
+		['News - AR/VR/Mixed Reality/Metaverse','Aggregated News Feeds (inoreader)','AR-VR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/XR%20AR%20MR/view/html'],
+		['News - Armament','Aggregated News Feeds (inoreader)','Armament','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Armament/view/html'],
+		['News - Cyber-Info','Aggregated News Feeds (inoreader)','Cyber-Info','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Cyber-Info/view/html'],
+		['News - EW / Radar / ELINT','Aggregated News Feeds (inoreader)','EW','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/EW%20Radar%20ELINT/view/html'],
+		['News - IoT','Aggregated News Feeds (inoreader)','IoT','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/IoT/view/html'],
+		['News - General','Aggregated News Feeds (inoreader)','General','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20General/view/html'],
+		['News - MY','Aggregated News Feeds (inoreader)','MY','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20MY/view/html'],
+		['News - SG','Aggregated News Feeds (inoreader)','SG','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20SG/view/html'],
+		['News - Research Labs (Industry / Academia / Govt)','Aggregated News Feeds (inoreader)','Research Labs','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Research%20Labs%20%28Industry%20%2F%20Academia%20%2F%20Govt%29/view/html'],
+		['News - Robotics / Unmanned','Aggregated News Feeds (inoreader)','Drone','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Robot%20-%20unmanned/view/html'],
+		['News - Software Engineering','Aggregated News Feeds (inoreader)','Software Engineering','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Software%20Engineering/view/html'],
+		['News - Space','Aggregated News Feeds (inoreader)','Space','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Space/view/html'],
+		['News - Infrastructure','Aggregated News Feeds (inoreader)','Infrastructure','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Infrastructure/view/html'],
 
 		// ontology - DBPedia
 		['5G Ontology (DBPedia)','DBPedia (format in TTL, JSON, XML)','Ontology','5G','https://www.dropbox.com/s/ioli8axvfew2kc0/5G.zip?dl=0'],
