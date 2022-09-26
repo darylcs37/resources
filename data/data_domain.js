@@ -90,13 +90,16 @@
 
 		// News Inoreader - aggregated news
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
+
 		['News - 5G','Aggregated News Feeds (inoreader)','5G','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/5G%20Telco/view/html'],
 		['News - AR/VR/Mixed Reality/Metaverse','Aggregated News Feeds (inoreader)','AR-VR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/XR%20AR%20MR/view/html'],
 		['News - Armament','Aggregated News Feeds (inoreader)','Armament','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Armament/view/html'],
 		['News - Cyber-Info','Aggregated News Feeds (inoreader)','Cyber-Info','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Cyber-Info/view/html'],
 		['News - EW / Radar / ELINT','Aggregated News Feeds (inoreader)','EW','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/EW%20Radar%20ELINT/view/html'],
 		['News - IoT','Aggregated News Feeds (inoreader)','IoT','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/IoT/view/html'],
+		['News - GIS 3D Mapping','Aggregated News Feeds (inoreader)','GIS 3D Mapping','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/GIS%203D%20Mapping/view/html'],
 		['News - General','Aggregated News Feeds (inoreader)','General','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20General/view/html'],
+		['News - Hypersonic','Aggregated News Feeds (inoreader)','Hypersonic','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Hypersonic/view/html'],
 		['News - MY','Aggregated News Feeds (inoreader)','MY','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20MY/view/html'],
 		['News - SG','Aggregated News Feeds (inoreader)','SG','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20SG/view/html'],
 		['News - Research Labs (Industry / Academia / Govt)','Aggregated News Feeds (inoreader)','Research Labs','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Research%20Labs%20%28Industry%20%2F%20Academia%20%2F%20Govt%29/view/html'],
