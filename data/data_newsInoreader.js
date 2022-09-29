@@ -3,7 +3,7 @@
 		// News Inoreader - aggregated news
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
-		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
+		['News - UI/UX','Aggregated News Feeds (inoreader)','UI/UX','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/UI%20UX%20HCI/view/html'],
 		['News - 5G','Aggregated News Feeds (inoreader)','5G','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/5G%20Telco/view/html'],
 		['News - AR/VR/Mixed Reality/Metaverse','Aggregated News Feeds (inoreader)','AR-VR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/XR%20AR%20MR/view/html,https://www.inoreader.com/stream/user/1004633940/tag/XR/view/html'],
 		['News - Armament','Aggregated News Feeds (inoreader)','Armament','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Armament/view/html'],
@@ -22,6 +22,7 @@
 		['News - Software Engineering','Aggregated News Feeds (inoreader)','Software Engineering','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Software%20Engineering/view/html'],
 		['News - Space','Aggregated News Feeds (inoreader)','Space','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Space/view/html'],
 		['News - Infrastructure','Aggregated News Feeds (inoreader)','Infrastructure','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Infrastructure/view/html'],
+
 		//--------------------------------   END   --------------------------------
 	];
 
