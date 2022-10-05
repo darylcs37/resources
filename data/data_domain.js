@@ -5,7 +5,7 @@
 		// AI
 		['US National Security Commission on Artificial Intelligence (2021 - NCSAI)','AI strategy','AI','Policy','https://www.dropbox.com/s/z9jdqk5pf1czcfs/US_NSCAI_National%20Security%20Commission%20on%20Artificial%20Intelligence_p755.pdf?dl=0'],
 		['UK National AI Strategy (Sep 2021)','AI strategy','AI','Policy','https://www.dropbox.com/s/8wx6ys2txvek3ys/UK_National_AI_Strategy_20210923.pdf?dl=0'],
-		['China AI standardization white paper (2019 - CSET)','','AI','Policy','https://www.dropbox.com/s/gn85yunestrrlr9/CN_AI_standardization_white_paper_2019.pdf?dl=0'],
+		['China AI standardization white paper 2019 (CSET)','','AI','Policy','https://www.dropbox.com/s/gn85yunestrrlr9/CN_AI_standardization_white_paper_2019.pdf?dl=0'],
 		['Harnessed Lightning (CSET)','How The Chinese Military Is Adopting Artificial Intelligence','AI','Policy','https://www.dropbox.com/s/r8gjhf69bi2wamh/CN_AI_Harnessed-Lightning_p84%20%28CSET%29.pdf?dl=0'],
 		['A Survey of Visual Transformers (Nov 2021)','','AI','Algorithm','https://www.dropbox.com/s/tiq9jrt3608uwrw/AI_Algo_CV_A%20Survey%20of%20Visual%20Transformers_202111.pdf?dl=0'],
 		['A Knowledge Representation Practionary','','AI','Algorithm','https://www.dropbox.com/s/p2rhe27ux593vub/AI_Algo_KG_A%20Knowledge%20Representation%20Practionary.pdf?dl=0'],
@@ -267,10 +267,6 @@
 		['XXXXX','XXXXX','RUS-UKR','Cyber-Info','XXXXX'],
 
 
-
-
-
-
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
 		['XXXXX','XXXXX','RUS-UKR','XXXX','XXXXX'],
@@ -302,7 +298,7 @@ $(document).ready(function() {	$('#dynamic').html( '<table cellpadding="0" style
 		"paging"   : false,
 		"order": [[ 2, 'asc' ], [ 3, 'asc' ]],
 		"aaData"   : aDataSet,
-		"oSearch": {"sSearch": "RUS-UKR"},
+		"oSearch": {"sSearch": ""},
 		"aoColumns": [
 			{ "sTitle": "Name", "sWidth": "35%" },
 			{ "sTitle": "Description", "sWidth": "40%" },
