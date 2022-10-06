@@ -15,6 +15,7 @@
 		['News - Hypersonic','Aggregated News Feeds (inoreader)','Hypersonic','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Hypersonic/view/html'],
 		['News - MY','Aggregated News Feeds (inoreader)','MY','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20MY/view/html'],
 		['News - SG','Aggregated News Feeds (inoreader)','SG','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20SG/view/html'],
+		['News - CN','Aggregated News Feeds (inoreader)','CN','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20China/view/html'],
 		['News - Research Labs (Industry / Academia / Govt)','Aggregated News Feeds (inoreader)','Research Labs','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Research%20Labs%20%28Industry%20%2F%20Academia%20%2F%20Govt%29/view/html'],
 		['News - Robotics / Unmanned','Aggregated News Feeds (inoreader)','Drone','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Robot%20-%20unmanned/view/html'],
 		['News - Russia Ukraine','Aggregated News Feeds (inoreader)','RUS-UKR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20RUS-UKR/view/html'],
