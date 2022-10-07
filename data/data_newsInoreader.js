@@ -25,7 +25,7 @@
 		['News - Infrastructure','Aggregated News Feeds (inoreader)','Infrastructure','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Infrastructure/view/html'],
 		['Resources - Russia Ukraine (curated)','Curated list of RUS-UKR resources','RUS-UKR','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_rus-ukr.htm'],
 		['Resources - China (curated)','Curated list of China resources','China','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_cn.htm'],
-		['News - Channel News Asia (Youtube)','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/YouTube/view/html'],
+		['Videos - Channel News Asia (Youtube)','Aggregated News Feeds (inoreader)','Videos','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/YouTube/view/html'],
 
 		//--------------------------------   END   --------------------------------
 	];
