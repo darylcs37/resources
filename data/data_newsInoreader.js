@@ -4,10 +4,9 @@
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
-		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],						
+		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
 		//
 
-		['News - UI/UX','Aggregated News Feeds (inoreader)','UI/UX','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/UI%20UX%20HCI/view/html'],
 		['News - 5G','Aggregated News Feeds (inoreader)','5G','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/5G%20Telco/view/html'],
 		['News - AR/VR/Mixed Reality/Metaverse','Aggregated News Feeds (inoreader)','AR-VR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/XR%20AR%20MR/view/html,https://www.inoreader.com/stream/user/1004633940/tag/XR/view/html'],
 		['News - Armament','Aggregated News Feeds (inoreader)','Armament','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Armament/view/html'],
@@ -28,11 +27,11 @@
 		['News - Russia Ukraine','Aggregated News Feeds (inoreader)','RUS-UKR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20RUS-UKR/view/html'],
 		['News - Russia Ukraine (tagged)','Aggregated News Feeds (inoreader)','RUS-UKR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20RUS-UKR/view/html,https://www.inoreader.com/stream/user/1004633940/tag/RUS-UKR/view/html'],
 		['News - Semi-Conductor','Aggregated News Feeds (inoreader)','Semi-Conductor','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/SemiConductor/view/html'],
-		['News - Social Media MarTech','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Social%20Media%20MarTech/view/html?c=0x122E4A&bc=0xF8F2F2'],
+		['News - Social Media MarTech','Aggregated News Feeds (inoreader)','Social Media MarTech','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Social%20Media%20MarTech/view/html?c=0x122E4A&bc=0xF8F2F2'],
 		['News - Software Engineering','Aggregated News Feeds (inoreader)','Software Engineering','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Software%20Engineering/view/html'],
 		['News - Space','Aggregated News Feeds (inoreader)','Space','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Space/view/html'],
 		['News - Training & Simulation','Aggregated News Feeds (inoreader)','Training & Simulation','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Training%20%26%20Simulation/view/html'],
-		['News - UI UX HCI','Aggregated News Feeds (inoreader)','UI UX HCI','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/UI%20UX%20HCI/view/html'],
+		['News - UI/UX','Aggregated News Feeds (inoreader)','UI/UX','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/UI%20UX%20HCI/view/html'],
 		['Resources - Russia Ukraine (curated)','Curated list of RUS-UKR resources','RUS-UKR','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_rus-ukr.htm'],
 		['Resources - China (curated)','Curated list of China resources','China','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_cn.htm'],
 		['Videos - Channel News Asia (Youtube)','Aggregated News Feeds (inoreader)','Videos','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/YouTube/view/html'],
@@ -45,7 +44,7 @@ $(document).ready(function() {	$('#dynamic').html( '<table cellpadding="0" style
 	$('#example').dataTable( {
 		// "scrollY"  : 500, // no. of Y-pixels
 		"paging"   : false,
-		"order": [[ 2, 'asc' ], [ 3, 'asc' ]],
+		"order": [[ 0, 'asc' ], [ 1, 'asc' ]],
 		"aaData"   : aDataSet,
 		"oSearch": {"sSearch": ""},
 		"aoColumns": [
