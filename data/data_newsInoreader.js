@@ -4,7 +4,7 @@
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
-		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
+		//
 		//
 
 		['News - 5G','Aggregated News Feeds (inoreader)','5G','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/5G%20Telco/view/html'],
@@ -19,6 +19,7 @@
 		['News - Hypersonic','Aggregated News Feeds (inoreader)','Hypersonic','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Hypersonic/view/html'],
 		['News - Infrastructure','Aggregated News Feeds (inoreader)','Infrastructure','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Infrastructure/view/html'],
 		['News - IoT','Aggregated News Feeds (inoreader)','IoT','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/IoT/view/html'],
+		['News - Learning & Development','Aggregated News Feeds (inoreader)','Learning & Development','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Learning%20%26%20Development/view/html'],
 		['News - MY','Aggregated News Feeds (inoreader)','MY','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20MY/view/html'],
 		['News - SG','Aggregated News Feeds (inoreader)','SG','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20SG/view/html'],
 		['News - CN','Aggregated News Feeds (inoreader)','CN','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20China/view/html'],
