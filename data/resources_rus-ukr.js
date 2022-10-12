@@ -50,8 +50,6 @@
 		['Russia-Ukraine Drone-related news articles','Why drones are silent heroes in modern warfare between Ukraine and Russia','RUS-UKR','Drone','https://www.dropbox.com/s/tonabira54eou7o/RUS-UKR_Drone.docx?dl=0'],
 		['Bayraktar TB2 Armed Drone','In the Ukraine conflict the TB2 has scored some impressive kills against Russian tanks, armored vehicles, artillery pieces, and short-range air defense systems. The Turks have also employed the TB2 in Syria and Iraq since 2014.','RUS-UKR','Drone','https://www.national-security.info/ukraine/weapons/bayraktar-tb2-drone.html'],
 
-
-
 		// Equipment
 		// ['XXXXX','XXXXX','RUS-UKR','Equipment','XXXXX'],
 		['Arms Transfers to Ukraine','Ukraine arms transfers As tensions mounted in late 2021 and into 2022 concerning a Russian invasion of Ukraine, many countries announced arms transfers to Ukraine. As the invasion began in late February, this resource page was launched to track developments related to such transfers, which thus far includes pledges and/or deliveries from more than 25 countries plus the European Union. (forumarmstrade)','RUS-UKR','Equipment','https://www.forumarmstrade.org/ukrainearms.html'],
@@ -63,6 +61,10 @@
 		['Ukrainian tech sector in wartime','(techukraine.org)','RUS-UKR','General','https://techukraine.org/2022/07/02/ukrainian-tech-sector-in-wartime-june-edition/'],
 		['Disrupters and Defenders: What the Ukraine War Has Taught Us About the Power of Global Tech Companies','(institute.global)','RUS-UKR','General','https://institute.global/policy/disrupters-and-defenders-what-ukraine-war-has-taught-us-about-power-global-tech-companies'],
 		['Global Impact of War In Ukraine','(futuresplatform)','RUS-UKR','General','https://www.futuresplatform.com/foresight-radar/ukraine-war-global-impacts'],
+		['Ukraine Russia War Dataset','(github)','RUS-UKR','General','https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset'],
+		['Tracking sanctions against Russia','(reuters)','RUS-UKR','General','https://graphics.reuters.com/UKRAINE-CRISIS/SANCTIONS/byvrjenzmve/index.html'],
+
+
 
 		// EW
 		['EW Podcast 22: Taking Stock – Russian Electronic Warfare Evolves in Ukraine','Video','RUS-UKR','EW','https://www.youtube.com/watch?v=HDTKAAlPZos'],
