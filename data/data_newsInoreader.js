@@ -3,7 +3,7 @@
 		// News Inoreader - aggregated news
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
-		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
+		//
 		//
 		//
 
@@ -27,6 +27,7 @@
 		['News - Robotics / Unmanned','Aggregated News Feeds (inoreader)','Drone','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Robot%20-%20unmanned/view/html'],
 		['News - Russia Ukraine','Aggregated News Feeds (inoreader)','RUS-UKR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20RUS-UKR/view/html'],
 		['News - Russia Ukraine (tagged)','Aggregated News Feeds (inoreader)','RUS-UKR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20RUS-UKR/view/html,https://www.inoreader.com/stream/user/1004633940/tag/RUS-UKR/view/html'],
+		['News - Sea / Maritime','Aggregated News Feeds (inoreader)','Sea / Maritime','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Sea%20%2F%20Maritime/view/html'],		
 		['News - Semi-Conductor','Aggregated News Feeds (inoreader)','Semi-Conductor','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/SemiConductor/view/html'],
 		['News - Social Media MarTech','Aggregated News Feeds (inoreader)','Social Media MarTech','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Social%20Media%20MarTech/view/html?c=0x122E4A&bc=0xF8F2F2'],
 		['News - Software Engineering','Aggregated News Feeds (inoreader)','Software Engineering','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Software%20Engineering/view/html'],
