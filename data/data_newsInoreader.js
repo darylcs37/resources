@@ -3,6 +3,8 @@
 		// News Inoreader - aggregated news
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
 		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
+		// ['News - XXXX','Aggregated News Feeds (inoreader)','XXXX','News-Aggregated','XXXXX'],
+		//
 		//
 		//
 		//
@@ -37,6 +39,7 @@
 		['News - UI/UX','Aggregated News Feeds (inoreader)','UI/UX','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/UI%20UX%20HCI/view/html'],
 		['Resources - Russia Ukraine (curated)','Curated list of RUS-UKR resources','RUS-UKR','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_rus-ukr.htm'],
 		['Resources - China (curated)','Curated list of China resources','China','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_cn.htm'],
+		['Resource - BH 2023 SeeTrue Workshop','Aggregated News Feeds (inoreader)','SeeTrue','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/D4%20BrainHack/view/html'],
 		['Videos - Channel News Asia (Youtube)','Aggregated News Feeds (inoreader)','Videos','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/YouTube/view/html'],
 
 		//--------------------------------   END   --------------------------------
