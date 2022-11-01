@@ -10,6 +10,7 @@
 		//
 
 		['News - 5G','Aggregated News Feeds (inoreader)','5G','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/5G%20Telco/view/html'],
+		['News - Air /Aviation','Aggregated News Feeds (inoreader)','Air / Aviation','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/News%20-%20Aviation/view/html'],
 		['News - AR/VR/Mixed Reality/Metaverse','Aggregated News Feeds (inoreader)','AR-VR','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/XR%20AR%20MR/view/html,https://www.inoreader.com/stream/user/1004633940/tag/XR/view/html'],
 		['News - Armament','Aggregated News Feeds (inoreader)','Armament','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Armament/view/html'],
 		['News - Cyber-Info','Aggregated News Feeds (inoreader)','Cyber-Info','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Cyber-Info/view/html'],
