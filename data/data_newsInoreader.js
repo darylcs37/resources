@@ -35,9 +35,10 @@
 		['News - Space','Aggregated News Feeds (inoreader)','Space','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Space/view/html', 'https://www.inoreader.com/stream/user/1004633940/tag/Space'],
 		['News - Training & Simulation','Aggregated News Feeds (inoreader)','Training & Simulation','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Training%20%26%20Simulation/view/html', 'https://www.inoreader.com/stream/user/1004633940/tag/Training%20%26%20Simulation'],
 		['News - UI/UX','Aggregated News Feeds (inoreader)','UI/UX','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/UI%20UX%20HCI/view/html', 'XXXXX'],
-		['Resources - Russia Ukraine (curated)','Curated list of RUS-UKR resources','RUS-UKR','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_rus-ukr.htm', 'https://darylcs37.github.io/resources/listing_resources_rus-ukr.htm'],
-		['Resources - China (curated)','Curated list of China resources','China','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_cn.htm', 'https://darylcs37.github.io/resources/listing_resources_cn.htm'],
+		['Resource - Russia Ukraine (curated)','Curated list of RUS-UKR resources','RUS-UKR','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_rus-ukr.htm', 'https://darylcs37.github.io/resources/listing_resources_rus-ukr.htm'],
+		['Resource - China (curated)','Curated list of China resources','China','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_cn.htm', 'https://darylcs37.github.io/resources/listing_resources_cn.htm'],
 		['Resource - BH 2023 SeeTrue Workshop','Aggregated News Feeds (inoreader)','SeeTrue','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/D4%20BrainHack/view/html', 'https://www.inoreader.com/stream/user/1004633940/tag/D4%20BrainHack'],
+		['Podcasts','Aggregated News Feeds (inoreader)','Podcasts','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/Podcast/view/html', 'https://www.inoreader.com/stream/user/1004633940/tag/Podcast'],
 		['Videos - Channel News Asia (Youtube)','Aggregated News Feeds (inoreader)','Videos','News-Aggregated','https://www.inoreader.com/stream/user/1004633940/tag/YouTube/view/html', 'https://www.inoreader.com/stream/user/1004633940/tag/YouTube'],
 
 		//--------------------------------   END   --------------------------------
