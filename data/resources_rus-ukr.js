@@ -53,6 +53,7 @@
 		// Equipment
 		// ['XXXXX','XXXXX','RUS-UKR','Equipment','XXXXX'],
 		['Arms Transfers to Ukraine','Ukraine arms transfers As tensions mounted in late 2021 and into 2022 concerning a Russian invasion of Ukraine, many countries announced arms transfers to Ukraine. As the invasion began in late February, this resource page was launched to track developments related to such transfers, which thus far includes pledges and/or deliveries from more than 25 countries plus the European Union. (forumarmstrade)','RUS-UKR','Equipment','https://www.forumarmstrade.org/ukrainearms.html'],
+		['Ukraine Support Tracker','The Ukraine Support Tracker lists and quantifies military, financial and humanitarian aid promised by governments to Ukraine between January 24, 2022 and currently through November 20, 2022. It covers 40 countries, specifically the EU member states, other members of the G7, as well as Australia, South Korea, Turkey, Norway, New Zealand, Switzerland, China, Taiwan and India. The database is intended to support a facts-based discussion about support to Ukraine. (kiel)','RUS-UKR','Equipment','https://www.ifw-kiel.de/topics/war-against-ukraine/ukraine-support-tracker/'],
 		['Loitering munition','(janes)','RUS-UKR','Equipment','https://www.dropbox.com/s/x9vl8necpxj2ctd/Loitering%20munition%20%28Janes%29.pptx?dl=0'],
 		['Janes Equipment Profile - Ukraine Conflict (Mar 2022)','(janes)','RUS-UKR','Equipment','https://www.dropbox.com/s/pcj0rrdugwfl01e/Janes%20Equipment%20Profile%20-%20Ukraine%20Conflict_202203%20%28janes%29.pdf?dl=0'],
 
