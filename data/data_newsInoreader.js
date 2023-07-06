@@ -37,7 +37,6 @@
 		['News - UI/UX','Aggregated News Feeds (inoreader)','UI/UX','News-Aggregated','https://www.inoreader.com/stream/user/1005506540/tag/Web%20Design%2C%20UI%20%26%20UX%20/view/html', 'https://www.inoreader.com/stream/user/1005506540/tag/Web%20Design%2C%20UI%20%26%20UX%20'],
 		['Resource - Russia Ukraine (curated)','Curated list of RUS-UKR resources','RUS-UKR','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_rus-ukr.htm', 'https://darylcs37.github.io/resources/listing_resources_rus-ukr.htm'],
 		['Resource - China (curated)','Curated list of China resources','China','News-Aggregated','https://darylcs37.github.io/resources/listing_resources_cn.htm', 'https://darylcs37.github.io/resources/listing_resources_cn.htm'],
-		['Resource - BH 2023 SeeTrue Workshop','Aggregated News Feeds (inoreader)','SeeTrue','News-Aggregated','https://www.inoreader.com/stream/user/1005506540/tag/D4%20BrainHack/view/html', 'https://www.inoreader.com/stream/user/1005506540/tag/D4%20BrainHack'],
 		['Podcasts','Aggregated News Feeds (inoreader)','Podcasts','News-Aggregated','https://www.inoreader.com/stream/user/1005506540/tag/Podcast/view/html', 'https://www.inoreader.com/stream/user/1005506540/tag/Podcast'],
 		['Videos - Channel News Asia (Youtube)','Aggregated News Feeds (inoreader)','Videos','News-Aggregated','https://www.inoreader.com/stream/user/1005506540/tag/YouTube/view/html', 'https://www.inoreader.com/stream/user/1005506540/tag/YouTube'],
 
