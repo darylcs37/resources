@@ -5,9 +5,6 @@
 		//
 		//
 		//
-		//
-
-
 
 		['News - 5G','Aggregated News Feeds (inoreader)','5G','News-Aggregated','https://www.inoreader.com/stream/user/1005506540/tag/5G%20Telco/view/html', 'https://www.inoreader.com/stream/user/1005506540/tag/5G%20Telco'],
 		['News - Air /Aviation','Aggregated News Feeds (inoreader)','Air / Aviation','News-Aggregated','https://www.inoreader.com/stream/user/1005506540/tag/News%20-%20Aviation/view/html', 'https://www.inoreader.com/stream/user/1005506540/tag/News%20-%20Aviation'],
